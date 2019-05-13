@@ -13,6 +13,3852 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  entries: []
+  lastUpdatedAtString: 2019-05-13T17:10:36.996-04:00
+  initializedAtString: 2019-05-11T19:06:33.290-04:00
+  entries:
+  - path: .vs\Quadris\v15\.suo
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\.vs\Quadris\v15\.suo
+    projectPath: .vs\Quadris\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Buttons\MoveDL.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveDL.prefab
+    projectPath: Assets\Buttons\MoveDL.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveDL.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveDL.prefab.meta
+    projectPath: Assets\Buttons\MoveDL.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveDR.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveDR.prefab
+    projectPath: Assets\Buttons\MoveDR.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveDR.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveDR.prefab.meta
+    projectPath: Assets\Buttons\MoveDR.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveUL.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveUL.prefab
+    projectPath: Assets\Buttons\MoveUL.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveUL.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveUL.prefab.meta
+    projectPath: Assets\Buttons\MoveUL.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveUR.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveUR.prefab
+    projectPath: Assets\Buttons\MoveUR.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Buttons\MoveUR.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Buttons\MoveUR.prefab.meta
+    projectPath: Assets\Buttons\MoveUR.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Cameras\CameraSwap.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Cameras\CameraSwap.prefab
+    projectPath: Assets\Cameras\CameraSwap.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Cameras\CameraSwap.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Cameras\CameraSwap.prefab.meta
+    projectPath: Assets\Cameras\CameraSwap.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Pieces\I-piece.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\I-piece.prefab
+    projectPath: Assets\Pieces\I-piece.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Pieces\I-piece.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\I-piece.prefab.meta
+    projectPath: Assets\Pieces\I-piece.prefab.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Pieces\L-piece.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\L-piece.prefab
+    projectPath: Assets\Pieces\L-piece.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Pieces\Mino.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\Mino.prefab
+    projectPath: Assets\Pieces\Mino.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Pieces\Mino.prefab.meta
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\Mino.prefab.meta
+    projectPath: Assets\Pieces\Mino.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\Pieces\O-piece.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\O-piece.prefab
+    projectPath: Assets\Pieces\O-piece.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Pieces\T-piece.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\T-piece.prefab
+    projectPath: Assets\Pieces\T-piece.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Pieces\Z-piece.prefab
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Pieces\Z-piece.prefab
+    projectPath: Assets\Pieces\Z-piece.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\ProCore\ProBuilder\Data\ProBuilderPreferences.asset
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\ProCore\ProBuilder\Data\ProBuilderPreferences.asset
+    projectPath: Assets\ProCore\ProBuilder\Data\ProBuilderPreferences.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\CameraSwap.cs
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Scripts\CameraSwap.cs
+    projectPath: Assets\Scripts\CameraSwap.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Quadromino.cs
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Assets\Scripts\Quadromino.cs
+    projectPath: Assets\Scripts\Quadromino.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Collab\CollabSnapshot_449fc026-47e6-4d59-ae87-f6a2f1effa0c.txt
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\Collab\CollabSnapshot_449fc026-47e6-4d59-ae87-f6a2f1effa0c.txt
+    projectPath: Library\Collab\CollabSnapshot_449fc026-47e6-4d59-ae87-f6a2f1effa0c.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977
+    projectPath: Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977.info
+    projectPath: Library\metadata\01\0138d5f4e5d2bb54fb1ff5161fb16977.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe
+    projectPath: Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe.info
+    projectPath: Library\metadata\08\0829c982f34fa064ca4a678b372ad0fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\0c\0c70851bec709d042ab660587ac7e13f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\0c\0c70851bec709d042ab660587ac7e13f
+    projectPath: Library\metadata\0c\0c70851bec709d042ab660587ac7e13f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0c\0c70851bec709d042ab660587ac7e13f.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\0c\0c70851bec709d042ab660587ac7e13f.info
+    projectPath: Library\metadata\0c\0c70851bec709d042ab660587ac7e13f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb
+    projectPath: Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb.info
+    projectPath: Library\metadata\20\20f3306c2e56af949ab11d83867b5fcb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\54\5497985ea8412024ca866df5b9c38b70
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\54\5497985ea8412024ca866df5b9c38b70
+    projectPath: Library\metadata\54\5497985ea8412024ca866df5b9c38b70
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\54\5497985ea8412024ca866df5b9c38b70.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\54\5497985ea8412024ca866df5b9c38b70.info
+    projectPath: Library\metadata\54\5497985ea8412024ca866df5b9c38b70.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84
+    projectPath: Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84.info
+    projectPath: Library\metadata\6c\6ceb47b800fbcce4895a53856dbe9f84.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\70\70a0199a0abba1a4fa0c5313b1dc2442
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\70\70a0199a0abba1a4fa0c5313b1dc2442
+    projectPath: Library\metadata\70\70a0199a0abba1a4fa0c5313b1dc2442
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2
+    projectPath: Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2.info
+    projectPath: Library\metadata\80\801d99a5a05ceb440b6b08336d823ff2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\8e\8e8b26affb4878e4bbb46c535962fbeb
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\8e\8e8b26affb4878e4bbb46c535962fbeb
+    projectPath: Library\metadata\8e\8e8b26affb4878e4bbb46c535962fbeb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d
+    projectPath: Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d.info
+    projectPath: Library\metadata\8f\8f3855df0bbef5e4d835a393dd38223d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79
+    projectPath: Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79.info
+    projectPath: Library\metadata\c6\c659c9b90e0bf8c46bef04cccc7d1e79.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\ea\eaf280c9c80073048accd347f9164148
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\ea\eaf280c9c80073048accd347f9164148
+    projectPath: Library\metadata\ea\eaf280c9c80073048accd347f9164148
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ea\eaf280c9c80073048accd347f9164148.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\ea\eaf280c9c80073048accd347f9164148.info
+    projectPath: Library\metadata\ea\eaf280c9c80073048accd347f9164148.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368
+    projectPath: Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368.info
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368.info
+    projectPath: Library\metadata\fe\fe5414f020396184a9fd22c6f8b92368.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-0138d5f4e5d2bb54fb.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-0138d5f4e5d2bb54fb.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-0138d5f4e5d2bb54fb.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-0829c982f34fa064ca.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-0829c982f34fa064ca.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-0829c982f34fa064ca.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-5497985ea8412024ca.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-5497985ea8412024ca.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-5497985ea8412024ca.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-6ceb47b800fbcce489.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-6ceb47b800fbcce489.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-6ceb47b800fbcce489.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-fe5414f020396184a9.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-fe5414f020396184a9.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-fe5414f020396184a9.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\Hierarchy\91e84f-mainStage.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\Hierarchy\91e84f-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\91e84f-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\4995ec-0829c982f34fa064ca.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\SceneView\4995ec-0829c982f34fa064ca.json
+    projectPath: Library\StateCache\SceneView\4995ec-0829c982f34fa064ca.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\4995ec-5497985ea8412024ca.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\SceneView\4995ec-5497985ea8412024ca.json
+    projectPath: Library\StateCache\SceneView\4995ec-5497985ea8412024ca.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\4995ec-6ceb47b800fbcce489.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\SceneView\4995ec-6ceb47b800fbcce489.json
+    projectPath: Library\StateCache\SceneView\4995ec-6ceb47b800fbcce489.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\4995ec-fe5414f020396184a9.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\SceneView\4995ec-fe5414f020396184a9.json
+    projectPath: Library\StateCache\SceneView\4995ec-fe5414f020396184a9.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\StateCache\SceneView\4995ec-mainStage.json
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Library\StateCache\SceneView\4995ec-mainStage.json
+    projectPath: Library\StateCache\SceneView\4995ec-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-00b656d7fe8a29e47a282bf236d059fb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-00b656d7fe8a29e47a282bf236d059fb.unwrap
+    projectPath: Temp\input-00b656d7fe8a29e47a282bf236d059fb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0132f82faac96164ea69dd517dec04c2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0132f82faac96164ea69dd517dec04c2.unwrap
+    projectPath: Temp\input-0132f82faac96164ea69dd517dec04c2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-02a8cf33e857d074b9b7a59e2b2aab8a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-02a8cf33e857d074b9b7a59e2b2aab8a.unwrap
+    projectPath: Temp\input-02a8cf33e857d074b9b7a59e2b2aab8a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-04eb17c6071c1904e88b747c8427883e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-04eb17c6071c1904e88b747c8427883e.unwrap
+    projectPath: Temp\input-04eb17c6071c1904e88b747c8427883e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-056a1582d1af04044bed93115c33474b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-056a1582d1af04044bed93115c33474b.unwrap
+    projectPath: Temp\input-056a1582d1af04044bed93115c33474b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-05ee809b6290bb242ac03d8568135e3c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-05ee809b6290bb242ac03d8568135e3c.unwrap
+    projectPath: Temp\input-05ee809b6290bb242ac03d8568135e3c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-076469a7c77db784d80f8604c4b678bd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-076469a7c77db784d80f8604c4b678bd.unwrap
+    projectPath: Temp\input-076469a7c77db784d80f8604c4b678bd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0838c852ad4d1a04ca39a347043f0073.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0838c852ad4d1a04ca39a347043f0073.unwrap
+    projectPath: Temp\input-0838c852ad4d1a04ca39a347043f0073.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-08e779d257336424d8705c2dc0723d33.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-08e779d257336424d8705c2dc0723d33.unwrap
+    projectPath: Temp\input-08e779d257336424d8705c2dc0723d33.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0930aff1a1dcab240896a14969051fc8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0930aff1a1dcab240896a14969051fc8.unwrap
+    projectPath: Temp\input-0930aff1a1dcab240896a14969051fc8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-09dc4478da65f4747bfd6329fb36f2e2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-09dc4478da65f4747bfd6329fb36f2e2.unwrap
+    projectPath: Temp\input-09dc4478da65f4747bfd6329fb36f2e2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0a8d3ba7c5e211343b5e899e35e5425e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0a8d3ba7c5e211343b5e899e35e5425e.unwrap
+    projectPath: Temp\input-0a8d3ba7c5e211343b5e899e35e5425e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0c0b0bcc3f7a20643b953dcbab9e3a62.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0c0b0bcc3f7a20643b953dcbab9e3a62.unwrap
+    projectPath: Temp\input-0c0b0bcc3f7a20643b953dcbab9e3a62.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0cb74d7f007cf5f4b85f8f519bf28b41.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0cb74d7f007cf5f4b85f8f519bf28b41.unwrap
+    projectPath: Temp\input-0cb74d7f007cf5f4b85f8f519bf28b41.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0dbe40f362c1f864382b424c50d68806.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0dbe40f362c1f864382b424c50d68806.unwrap
+    projectPath: Temp\input-0dbe40f362c1f864382b424c50d68806.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0f36e2c64d7e10e4ca67340b5150b49e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0f36e2c64d7e10e4ca67340b5150b49e.unwrap
+    projectPath: Temp\input-0f36e2c64d7e10e4ca67340b5150b49e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-0f9f5099dd8dbdd40a05c1b9b2785155.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-0f9f5099dd8dbdd40a05c1b9b2785155.unwrap
+    projectPath: Temp\input-0f9f5099dd8dbdd40a05c1b9b2785155.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-134cecccd38c1ef4486d2d4055739bb3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-134cecccd38c1ef4486d2d4055739bb3.unwrap
+    projectPath: Temp\input-134cecccd38c1ef4486d2d4055739bb3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-139c918145f1c36439e5ccddda049485.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-139c918145f1c36439e5ccddda049485.unwrap
+    projectPath: Temp\input-139c918145f1c36439e5ccddda049485.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-1662ae93eed01af47a48fe76258d44a2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-1662ae93eed01af47a48fe76258d44a2.unwrap
+    projectPath: Temp\input-1662ae93eed01af47a48fe76258d44a2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-197c2abd5f2f2e445b68bea700a9d361.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-197c2abd5f2f2e445b68bea700a9d361.unwrap
+    projectPath: Temp\input-197c2abd5f2f2e445b68bea700a9d361.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-19da497f5e9ea004a965f11d38526c0c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-19da497f5e9ea004a965f11d38526c0c.unwrap
+    projectPath: Temp\input-19da497f5e9ea004a965f11d38526c0c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-1a2e13717bff54b428d1f5d6cb213837.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-1a2e13717bff54b428d1f5d6cb213837.unwrap
+    projectPath: Temp\input-1a2e13717bff54b428d1f5d6cb213837.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-1bfa02170d109e046a1972ff572ac3b4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-1bfa02170d109e046a1972ff572ac3b4.unwrap
+    projectPath: Temp\input-1bfa02170d109e046a1972ff572ac3b4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-1c17d66b627e1ca47b1fd0b9cc65a5e8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-1c17d66b627e1ca47b1fd0b9cc65a5e8.unwrap
+    projectPath: Temp\input-1c17d66b627e1ca47b1fd0b9cc65a5e8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-1de1497e9f9c80a46b442e6ed1734b80.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-1de1497e9f9c80a46b442e6ed1734b80.unwrap
+    projectPath: Temp\input-1de1497e9f9c80a46b442e6ed1734b80.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2117d4c765ff67948a058fd821066319.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2117d4c765ff67948a058fd821066319.unwrap
+    projectPath: Temp\input-2117d4c765ff67948a058fd821066319.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-218e1833e03e15d4c981f775a5cd5872.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-218e1833e03e15d4c981f775a5cd5872.unwrap
+    projectPath: Temp\input-218e1833e03e15d4c981f775a5cd5872.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2196b7c371d77864b8d8ee4e552a9c0e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2196b7c371d77864b8d8ee4e552a9c0e.unwrap
+    projectPath: Temp\input-2196b7c371d77864b8d8ee4e552a9c0e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-24b0550e1c4fbf34bac590f7b8b23f04.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-24b0550e1c4fbf34bac590f7b8b23f04.unwrap
+    projectPath: Temp\input-24b0550e1c4fbf34bac590f7b8b23f04.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-24e4da4a957af994b844a1b8ee5373ba.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-24e4da4a957af994b844a1b8ee5373ba.unwrap
+    projectPath: Temp\input-24e4da4a957af994b844a1b8ee5373ba.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2586ed13fc021b64798d41b406cee50f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2586ed13fc021b64798d41b406cee50f.unwrap
+    projectPath: Temp\input-2586ed13fc021b64798d41b406cee50f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-25dcd90f3ea7b844c9db5e87ea2dea3e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-25dcd90f3ea7b844c9db5e87ea2dea3e.unwrap
+    projectPath: Temp\input-25dcd90f3ea7b844c9db5e87ea2dea3e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-287e18e8a8e79a946b14c305bc672d76.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-287e18e8a8e79a946b14c305bc672d76.unwrap
+    projectPath: Temp\input-287e18e8a8e79a946b14c305bc672d76.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2929c5b673a7a2f4da94b660a9eaa18a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2929c5b673a7a2f4da94b660a9eaa18a.unwrap
+    projectPath: Temp\input-2929c5b673a7a2f4da94b660a9eaa18a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2a34f168027fe254cb2ab610eaceff57.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2a34f168027fe254cb2ab610eaceff57.unwrap
+    projectPath: Temp\input-2a34f168027fe254cb2ab610eaceff57.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2a86071f95b0a4d419e5e09bc83f10a8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2a86071f95b0a4d419e5e09bc83f10a8.unwrap
+    projectPath: Temp\input-2a86071f95b0a4d419e5e09bc83f10a8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2bba5755cf64f7342b1e61c539f4f106.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2bba5755cf64f7342b1e61c539f4f106.unwrap
+    projectPath: Temp\input-2bba5755cf64f7342b1e61c539f4f106.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2c0ab5282b59293488eaaa8c6850954c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2c0ab5282b59293488eaaa8c6850954c.unwrap
+    projectPath: Temp\input-2c0ab5282b59293488eaaa8c6850954c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-2dd198198b58345419d71032614565ef.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-2dd198198b58345419d71032614565ef.unwrap
+    projectPath: Temp\input-2dd198198b58345419d71032614565ef.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-306da767d4eafc245aa4f80d6d48805f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-306da767d4eafc245aa4f80d6d48805f.unwrap
+    projectPath: Temp\input-306da767d4eafc245aa4f80d6d48805f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-3548f8c0444a9c148b341da8c22401fa.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-3548f8c0444a9c148b341da8c22401fa.unwrap
+    projectPath: Temp\input-3548f8c0444a9c148b341da8c22401fa.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-3632f1a29b45aa04781f0012d718cfc1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-3632f1a29b45aa04781f0012d718cfc1.unwrap
+    projectPath: Temp\input-3632f1a29b45aa04781f0012d718cfc1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-36c74ae28bb67374e9a224bd42d00e5e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-36c74ae28bb67374e9a224bd42d00e5e.unwrap
+    projectPath: Temp\input-36c74ae28bb67374e9a224bd42d00e5e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-391ac29dc29124d4a961116200f5cb58.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-391ac29dc29124d4a961116200f5cb58.unwrap
+    projectPath: Temp\input-391ac29dc29124d4a961116200f5cb58.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-39ceb2bc7c6e5a64591dbce767466f14.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-39ceb2bc7c6e5a64591dbce767466f14.unwrap
+    projectPath: Temp\input-39ceb2bc7c6e5a64591dbce767466f14.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-3ac158e169a7c9645947637d92ad0f79.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-3ac158e169a7c9645947637d92ad0f79.unwrap
+    projectPath: Temp\input-3ac158e169a7c9645947637d92ad0f79.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-3f088ec6a71400540a728187b3fc3b7c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-3f088ec6a71400540a728187b3fc3b7c.unwrap
+    projectPath: Temp\input-3f088ec6a71400540a728187b3fc3b7c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4165f06ac81025146accd0860715df98.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4165f06ac81025146accd0860715df98.unwrap
+    projectPath: Temp\input-4165f06ac81025146accd0860715df98.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-42be17e712a495d42bc59789b5561dde.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-42be17e712a495d42bc59789b5561dde.unwrap
+    projectPath: Temp\input-42be17e712a495d42bc59789b5561dde.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-43766685233dad2429083333643542d3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-43766685233dad2429083333643542d3.unwrap
+    projectPath: Temp\input-43766685233dad2429083333643542d3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4525823241d029446aaa0e5c6b930be6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4525823241d029446aaa0e5c6b930be6.unwrap
+    projectPath: Temp\input-4525823241d029446aaa0e5c6b930be6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-45fe8807e31bf45448749067fbc3c0cf.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-45fe8807e31bf45448749067fbc3c0cf.unwrap
+    projectPath: Temp\input-45fe8807e31bf45448749067fbc3c0cf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4811c123bf51ae74493a5360204b028d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4811c123bf51ae74493a5360204b028d.unwrap
+    projectPath: Temp\input-4811c123bf51ae74493a5360204b028d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-48cde00003cf06f4886c461b24763bae.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-48cde00003cf06f4886c461b24763bae.unwrap
+    projectPath: Temp\input-48cde00003cf06f4886c461b24763bae.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4936027db72831548bf65ed2abb369f6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4936027db72831548bf65ed2abb369f6.unwrap
+    projectPath: Temp\input-4936027db72831548bf65ed2abb369f6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-499e7cbdab50b9b4a8f60c46a27feb90.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-499e7cbdab50b9b4a8f60c46a27feb90.unwrap
+    projectPath: Temp\input-499e7cbdab50b9b4a8f60c46a27feb90.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4af2b2d087f3ccc4f969b5615d44a721.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4af2b2d087f3ccc4f969b5615d44a721.unwrap
+    projectPath: Temp\input-4af2b2d087f3ccc4f969b5615d44a721.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4b1bd2df069102840ad440d3325bd4d4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4b1bd2df069102840ad440d3325bd4d4.unwrap
+    projectPath: Temp\input-4b1bd2df069102840ad440d3325bd4d4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4b526a35eab0dd64291c234838e5e944.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4b526a35eab0dd64291c234838e5e944.unwrap
+    projectPath: Temp\input-4b526a35eab0dd64291c234838e5e944.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4c8cb4485ea052e45928910c42239abd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4c8cb4485ea052e45928910c42239abd.unwrap
+    projectPath: Temp\input-4c8cb4485ea052e45928910c42239abd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4ca45ac1783578649ad085646ad6f32b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4ca45ac1783578649ad085646ad6f32b.unwrap
+    projectPath: Temp\input-4ca45ac1783578649ad085646ad6f32b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4da2805c8c425b24c82edb0d6cea17a0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4da2805c8c425b24c82edb0d6cea17a0.unwrap
+    projectPath: Temp\input-4da2805c8c425b24c82edb0d6cea17a0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4dfa08106801e1540abb31bdd54ff50d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4dfa08106801e1540abb31bdd54ff50d.unwrap
+    projectPath: Temp\input-4dfa08106801e1540abb31bdd54ff50d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-4e2e779686cdbcc45bc66a349a6cbe89.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-4e2e779686cdbcc45bc66a349a6cbe89.unwrap
+    projectPath: Temp\input-4e2e779686cdbcc45bc66a349a6cbe89.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-50edfc672f4f95f44a021ba31cc28658.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-50edfc672f4f95f44a021ba31cc28658.unwrap
+    projectPath: Temp\input-50edfc672f4f95f44a021ba31cc28658.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-52428a637a1eff04bb0809e221b44cb1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-52428a637a1eff04bb0809e221b44cb1.unwrap
+    projectPath: Temp\input-52428a637a1eff04bb0809e221b44cb1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-52d08b18d0c719745a22ef6f6c01d24d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-52d08b18d0c719745a22ef6f6c01d24d.unwrap
+    projectPath: Temp\input-52d08b18d0c719745a22ef6f6c01d24d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-552c94f10bb6388429645cf7e79e47dc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-552c94f10bb6388429645cf7e79e47dc.unwrap
+    projectPath: Temp\input-552c94f10bb6388429645cf7e79e47dc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-55d736e522567b6458fd4be6639b3920.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-55d736e522567b6458fd4be6639b3920.unwrap
+    projectPath: Temp\input-55d736e522567b6458fd4be6639b3920.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-581d31140bdce7346ac1950eca35e397.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-581d31140bdce7346ac1950eca35e397.unwrap
+    projectPath: Temp\input-581d31140bdce7346ac1950eca35e397.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-58782d848f7b9d14bbdf3d1e28c14d92.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-58782d848f7b9d14bbdf3d1e28c14d92.unwrap
+    projectPath: Temp\input-58782d848f7b9d14bbdf3d1e28c14d92.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-5996365a69d75644192ae48c959102e1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-5996365a69d75644192ae48c959102e1.unwrap
+    projectPath: Temp\input-5996365a69d75644192ae48c959102e1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-59df55aef02d0d1499abf61ec95de1f7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-59df55aef02d0d1499abf61ec95de1f7.unwrap
+    projectPath: Temp\input-59df55aef02d0d1499abf61ec95de1f7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-5a22bbd135cff0342835d0701a28fdda.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-5a22bbd135cff0342835d0701a28fdda.unwrap
+    projectPath: Temp\input-5a22bbd135cff0342835d0701a28fdda.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-62de54744e306274f96cb8a4a3d07de3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-62de54744e306274f96cb8a4a3d07de3.unwrap
+    projectPath: Temp\input-62de54744e306274f96cb8a4a3d07de3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-645d2e7f27b2d7a4fbaca219d5f4fe9d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-645d2e7f27b2d7a4fbaca219d5f4fe9d.unwrap
+    projectPath: Temp\input-645d2e7f27b2d7a4fbaca219d5f4fe9d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-652321f621f00b74783d119e9a0dda8d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-652321f621f00b74783d119e9a0dda8d.unwrap
+    projectPath: Temp\input-652321f621f00b74783d119e9a0dda8d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-65673f284e72ba54dac21c47aee782e1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-65673f284e72ba54dac21c47aee782e1.unwrap
+    projectPath: Temp\input-65673f284e72ba54dac21c47aee782e1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-6608ec0f0d4cf0947880691bf095f985.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-6608ec0f0d4cf0947880691bf095f985.unwrap
+    projectPath: Temp\input-6608ec0f0d4cf0947880691bf095f985.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-66fe710059e1e7a41a0b58678e8a3937.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-66fe710059e1e7a41a0b58678e8a3937.unwrap
+    projectPath: Temp\input-66fe710059e1e7a41a0b58678e8a3937.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-67ac64db4457f1743b9f913c51fae136.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-67ac64db4457f1743b9f913c51fae136.unwrap
+    projectPath: Temp\input-67ac64db4457f1743b9f913c51fae136.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-68500943c48544e49a0f59152ef28732.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-68500943c48544e49a0f59152ef28732.unwrap
+    projectPath: Temp\input-68500943c48544e49a0f59152ef28732.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-689d066951ba7854993afd58316d4a23.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-689d066951ba7854993afd58316d4a23.unwrap
+    projectPath: Temp\input-689d066951ba7854993afd58316d4a23.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-69b24f1ee020cc9428972f18234d9ac7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-69b24f1ee020cc9428972f18234d9ac7.unwrap
+    projectPath: Temp\input-69b24f1ee020cc9428972f18234d9ac7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-6c371180e7098f04d8ad566bce81095b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-6c371180e7098f04d8ad566bce81095b.unwrap
+    projectPath: Temp\input-6c371180e7098f04d8ad566bce81095b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-6d35a8d6f20f0bb4c98c1342a3660de9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-6d35a8d6f20f0bb4c98c1342a3660de9.unwrap
+    projectPath: Temp\input-6d35a8d6f20f0bb4c98c1342a3660de9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-6dea79dcbaff60749bdf9f269704aa06.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-6dea79dcbaff60749bdf9f269704aa06.unwrap
+    projectPath: Temp\input-6dea79dcbaff60749bdf9f269704aa06.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-6ee602516478d474c9c2e21368740b75.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-6ee602516478d474c9c2e21368740b75.unwrap
+    projectPath: Temp\input-6ee602516478d474c9c2e21368740b75.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-708044477bb6d014f9d57567a799e8a9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-708044477bb6d014f9d57567a799e8a9.unwrap
+    projectPath: Temp\input-708044477bb6d014f9d57567a799e8a9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-70da334635ff66041bb57b6f90393b4c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-70da334635ff66041bb57b6f90393b4c.unwrap
+    projectPath: Temp\input-70da334635ff66041bb57b6f90393b4c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-71b00e3961986cf4399202076e29e95c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-71b00e3961986cf4399202076e29e95c.unwrap
+    projectPath: Temp\input-71b00e3961986cf4399202076e29e95c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-71fbe4bd5a32722449c71b5f2e2ac97b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-71fbe4bd5a32722449c71b5f2e2ac97b.unwrap
+    projectPath: Temp\input-71fbe4bd5a32722449c71b5f2e2ac97b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-729b4ef825134bd4893fd338a7490546.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-729b4ef825134bd4893fd338a7490546.unwrap
+    projectPath: Temp\input-729b4ef825134bd4893fd338a7490546.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-72c9edae3d57e5e459c440f6e4775baa.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-72c9edae3d57e5e459c440f6e4775baa.unwrap
+    projectPath: Temp\input-72c9edae3d57e5e459c440f6e4775baa.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-73d963c1fa20c44458437c17a9dc106f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-73d963c1fa20c44458437c17a9dc106f.unwrap
+    projectPath: Temp\input-73d963c1fa20c44458437c17a9dc106f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-75845d5017fb52546a884dc58f1067b1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-75845d5017fb52546a884dc58f1067b1.unwrap
+    projectPath: Temp\input-75845d5017fb52546a884dc58f1067b1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-75ea23d5260c8824a98f57423ec6535b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-75ea23d5260c8824a98f57423ec6535b.unwrap
+    projectPath: Temp\input-75ea23d5260c8824a98f57423ec6535b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7764616beedec274da837b208d1a97dd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7764616beedec274da837b208d1a97dd.unwrap
+    projectPath: Temp\input-7764616beedec274da837b208d1a97dd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7857873303792f441a708e72e87b41c9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7857873303792f441a708e72e87b41c9.unwrap
+    projectPath: Temp\input-7857873303792f441a708e72e87b41c9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-792a8bf0fd73a754e8a45a25f681a8b9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-792a8bf0fd73a754e8a45a25f681a8b9.unwrap
+    projectPath: Temp\input-792a8bf0fd73a754e8a45a25f681a8b9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-79fb44f98b3db9c48b0db731296258e7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-79fb44f98b3db9c48b0db731296258e7.unwrap
+    projectPath: Temp\input-79fb44f98b3db9c48b0db731296258e7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7c27a2a0526a3ee4a9494c6decda7a4a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7c27a2a0526a3ee4a9494c6decda7a4a.unwrap
+    projectPath: Temp\input-7c27a2a0526a3ee4a9494c6decda7a4a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7d874a63ac894224ab094e9b40a30f00.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7d874a63ac894224ab094e9b40a30f00.unwrap
+    projectPath: Temp\input-7d874a63ac894224ab094e9b40a30f00.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7db60fb2a52f6a34ca340ad4362fa765.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7db60fb2a52f6a34ca340ad4362fa765.unwrap
+    projectPath: Temp\input-7db60fb2a52f6a34ca340ad4362fa765.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-7ecaaa396a98c70409e8236d25ed47d6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-7ecaaa396a98c70409e8236d25ed47d6.unwrap
+    projectPath: Temp\input-7ecaaa396a98c70409e8236d25ed47d6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8208b407d527480418bc8f756560db94.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8208b407d527480418bc8f756560db94.unwrap
+    projectPath: Temp\input-8208b407d527480418bc8f756560db94.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-82d7e9b73d94612448a981ed7ee803ea.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-82d7e9b73d94612448a981ed7ee803ea.unwrap
+    projectPath: Temp\input-82d7e9b73d94612448a981ed7ee803ea.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-82ef0f4a547894e4e845531f90ff9607.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-82ef0f4a547894e4e845531f90ff9607.unwrap
+    projectPath: Temp\input-82ef0f4a547894e4e845531f90ff9607.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-83f977af0e1060647b05b5a54c07c84f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-83f977af0e1060647b05b5a54c07c84f.unwrap
+    projectPath: Temp\input-83f977af0e1060647b05b5a54c07c84f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8401d64e53cd84649a771875c18ceebc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8401d64e53cd84649a771875c18ceebc.unwrap
+    projectPath: Temp\input-8401d64e53cd84649a771875c18ceebc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8492b8b281d05584bb6347c35bacc184.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8492b8b281d05584bb6347c35bacc184.unwrap
+    projectPath: Temp\input-8492b8b281d05584bb6347c35bacc184.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-865d94bdb84e3bb41a1abae6c190fac9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-865d94bdb84e3bb41a1abae6c190fac9.unwrap
+    projectPath: Temp\input-865d94bdb84e3bb41a1abae6c190fac9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-87b3383fd504a374a817404c2bf249d1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-87b3383fd504a374a817404c2bf249d1.unwrap
+    projectPath: Temp\input-87b3383fd504a374a817404c2bf249d1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8992881825d276145bfe948fb390c4a5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8992881825d276145bfe948fb390c4a5.unwrap
+    projectPath: Temp\input-8992881825d276145bfe948fb390c4a5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8ac2b683b22d79347ae66c4a27ae8394.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8ac2b683b22d79347ae66c4a27ae8394.unwrap
+    projectPath: Temp\input-8ac2b683b22d79347ae66c4a27ae8394.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8ae39d7079dbb104e86f8b9fe75fb021.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8ae39d7079dbb104e86f8b9fe75fb021.unwrap
+    projectPath: Temp\input-8ae39d7079dbb104e86f8b9fe75fb021.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8c76ebcb7faeee04b944bf2834ad37df.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8c76ebcb7faeee04b944bf2834ad37df.unwrap
+    projectPath: Temp\input-8c76ebcb7faeee04b944bf2834ad37df.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8d7ea9a8beaeac84ca06a0cf8fe8c519.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8d7ea9a8beaeac84ca06a0cf8fe8c519.unwrap
+    projectPath: Temp\input-8d7ea9a8beaeac84ca06a0cf8fe8c519.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-8f569128deb7e364383f4af7327934c9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-8f569128deb7e364383f4af7327934c9.unwrap
+    projectPath: Temp\input-8f569128deb7e364383f4af7327934c9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-92c54820c6c96d148ba584ab0f1e0ec2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-92c54820c6c96d148ba584ab0f1e0ec2.unwrap
+    projectPath: Temp\input-92c54820c6c96d148ba584ab0f1e0ec2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-92f58f0f5ddcc3a45a756c0def2d1860.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-92f58f0f5ddcc3a45a756c0def2d1860.unwrap
+    projectPath: Temp\input-92f58f0f5ddcc3a45a756c0def2d1860.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9371952bddd070c47a0c13622f26c883.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9371952bddd070c47a0c13622f26c883.unwrap
+    projectPath: Temp\input-9371952bddd070c47a0c13622f26c883.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-93e5d69f4bbda9e48b94b2603af1f408.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-93e5d69f4bbda9e48b94b2603af1f408.unwrap
+    projectPath: Temp\input-93e5d69f4bbda9e48b94b2603af1f408.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-947488dcca06ffa4a9b18458af265edb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-947488dcca06ffa4a9b18458af265edb.unwrap
+    projectPath: Temp\input-947488dcca06ffa4a9b18458af265edb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9560026a5ab9a244692796baa1ebdc89.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9560026a5ab9a244692796baa1ebdc89.unwrap
+    projectPath: Temp\input-9560026a5ab9a244692796baa1ebdc89.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-95f34599da1360541954e4ed312ffee0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-95f34599da1360541954e4ed312ffee0.unwrap
+    projectPath: Temp\input-95f34599da1360541954e4ed312ffee0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-97286e073bb7f88408ff37b7af7288b7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-97286e073bb7f88408ff37b7af7288b7.unwrap
+    projectPath: Temp\input-97286e073bb7f88408ff37b7af7288b7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-99a9292b88687954d90a2a2b94eb2b04.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-99a9292b88687954d90a2a2b94eb2b04.unwrap
+    projectPath: Temp\input-99a9292b88687954d90a2a2b94eb2b04.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9ab7442f5adf80c4499ad8b85fdb91c8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9ab7442f5adf80c4499ad8b85fdb91c8.unwrap
+    projectPath: Temp\input-9ab7442f5adf80c4499ad8b85fdb91c8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9b0ddcc7e4a95984692254f4dd239fa5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9b0ddcc7e4a95984692254f4dd239fa5.unwrap
+    projectPath: Temp\input-9b0ddcc7e4a95984692254f4dd239fa5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9b705b7c4251d6e42bf16e1e94515a33.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9b705b7c4251d6e42bf16e1e94515a33.unwrap
+    projectPath: Temp\input-9b705b7c4251d6e42bf16e1e94515a33.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9d0b316f85570174e90a0a6e01b89ad0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9d0b316f85570174e90a0a6e01b89ad0.unwrap
+    projectPath: Temp\input-9d0b316f85570174e90a0a6e01b89ad0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9f363f374b962b54e8faa434289e32ba.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9f363f374b962b54e8faa434289e32ba.unwrap
+    projectPath: Temp\input-9f363f374b962b54e8faa434289e32ba.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-9f7a0f0750aeefd45936dd2cbe7f6f7d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-9f7a0f0750aeefd45936dd2cbe7f6f7d.unwrap
+    projectPath: Temp\input-9f7a0f0750aeefd45936dd2cbe7f6f7d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a01c89fe72f86594aae1149d5f965490.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a01c89fe72f86594aae1149d5f965490.unwrap
+    projectPath: Temp\input-a01c89fe72f86594aae1149d5f965490.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a1ffaf40b8e007443806907e0f214dea.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a1ffaf40b8e007443806907e0f214dea.unwrap
+    projectPath: Temp\input-a1ffaf40b8e007443806907e0f214dea.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a272ec4dd2405674394e331586c7836f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a272ec4dd2405674394e331586c7836f.unwrap
+    projectPath: Temp\input-a272ec4dd2405674394e331586c7836f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a36c60bb7a13b584286e0c2437ad7b70.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a36c60bb7a13b584286e0c2437ad7b70.unwrap
+    projectPath: Temp\input-a36c60bb7a13b584286e0c2437ad7b70.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a3eb9bc91e74efa479b047da7623193c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a3eb9bc91e74efa479b047da7623193c.unwrap
+    projectPath: Temp\input-a3eb9bc91e74efa479b047da7623193c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a53d7e3f975009c4e9b512fd836043e2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a53d7e3f975009c4e9b512fd836043e2.unwrap
+    projectPath: Temp\input-a53d7e3f975009c4e9b512fd836043e2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a8423e998746f8d4ebf9a22a93160dcb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a8423e998746f8d4ebf9a22a93160dcb.unwrap
+    projectPath: Temp\input-a8423e998746f8d4ebf9a22a93160dcb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a93777dae7e4a68439c15523cbafd862.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a93777dae7e4a68439c15523cbafd862.unwrap
+    projectPath: Temp\input-a93777dae7e4a68439c15523cbafd862.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-a9f98e6badb4bd04195c4329a2754ec5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-a9f98e6badb4bd04195c4329a2754ec5.unwrap
+    projectPath: Temp\input-a9f98e6badb4bd04195c4329a2754ec5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-aa7df5ae169b56342ace4a7f43a27d7f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-aa7df5ae169b56342ace4a7f43a27d7f.unwrap
+    projectPath: Temp\input-aa7df5ae169b56342ace4a7f43a27d7f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ab59141ec47f18e478915381cad6e3ae.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ab59141ec47f18e478915381cad6e3ae.unwrap
+    projectPath: Temp\input-ab59141ec47f18e478915381cad6e3ae.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-abd588ed28b1d5146af770516e036620.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-abd588ed28b1d5146af770516e036620.unwrap
+    projectPath: Temp\input-abd588ed28b1d5146af770516e036620.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-acec2b818fe746642919365ff39d9331.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-acec2b818fe746642919365ff39d9331.unwrap
+    projectPath: Temp\input-acec2b818fe746642919365ff39d9331.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ad8b979134f40d5439e44fb081bb25bc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ad8b979134f40d5439e44fb081bb25bc.unwrap
+    projectPath: Temp\input-ad8b979134f40d5439e44fb081bb25bc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-aead6788c2db5fe4e939860e2c42b5fe.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-aead6788c2db5fe4e939860e2c42b5fe.unwrap
+    projectPath: Temp\input-aead6788c2db5fe4e939860e2c42b5fe.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-aedda3cab22d42141b1a93fedc7286b3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-aedda3cab22d42141b1a93fedc7286b3.unwrap
+    projectPath: Temp\input-aedda3cab22d42141b1a93fedc7286b3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-afe13ca233a9a0f40a69b08a5b4361f3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-afe13ca233a9a0f40a69b08a5b4361f3.unwrap
+    projectPath: Temp\input-afe13ca233a9a0f40a69b08a5b4361f3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-b3037e6b20921294a855a1eec9f59182.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-b3037e6b20921294a855a1eec9f59182.unwrap
+    projectPath: Temp\input-b3037e6b20921294a855a1eec9f59182.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-b46cf53254e18d94c829604704d76148.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-b46cf53254e18d94c829604704d76148.unwrap
+    projectPath: Temp\input-b46cf53254e18d94c829604704d76148.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-b8a5906bd138eaa41b62b5b2076d36e5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-b8a5906bd138eaa41b62b5b2076d36e5.unwrap
+    projectPath: Temp\input-b8a5906bd138eaa41b62b5b2076d36e5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-b9e05344384486a46882dcabc3916cfc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-b9e05344384486a46882dcabc3916cfc.unwrap
+    projectPath: Temp\input-b9e05344384486a46882dcabc3916cfc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-bc4dd1d3af01b3541adad3e4c98ae846.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-bc4dd1d3af01b3541adad3e4c98ae846.unwrap
+    projectPath: Temp\input-bc4dd1d3af01b3541adad3e4c98ae846.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-bdd4659285ed43a489cc908b8ec1f55b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-bdd4659285ed43a489cc908b8ec1f55b.unwrap
+    projectPath: Temp\input-bdd4659285ed43a489cc908b8ec1f55b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-be58b6e5b91233248aec10427316280f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-be58b6e5b91233248aec10427316280f.unwrap
+    projectPath: Temp\input-be58b6e5b91233248aec10427316280f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-be5b1ca1dcf71b44689d9472f0295b2d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-be5b1ca1dcf71b44689d9472f0295b2d.unwrap
+    projectPath: Temp\input-be5b1ca1dcf71b44689d9472f0295b2d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-bf67793f38e240246b8d08796ac23141.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-bf67793f38e240246b8d08796ac23141.unwrap
+    projectPath: Temp\input-bf67793f38e240246b8d08796ac23141.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c0247ceaee67be54d9a3d6165a96cf2e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c0247ceaee67be54d9a3d6165a96cf2e.unwrap
+    projectPath: Temp\input-c0247ceaee67be54d9a3d6165a96cf2e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c09890c02c611b647ae6ec4584d02782.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c09890c02c611b647ae6ec4584d02782.unwrap
+    projectPath: Temp\input-c09890c02c611b647ae6ec4584d02782.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c0a68b80c1ccc954089f42c0ea3e20d4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c0a68b80c1ccc954089f42c0ea3e20d4.unwrap
+    projectPath: Temp\input-c0a68b80c1ccc954089f42c0ea3e20d4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c30dcf4f26da59e4f846514116efa6f1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c30dcf4f26da59e4f846514116efa6f1.unwrap
+    projectPath: Temp\input-c30dcf4f26da59e4f846514116efa6f1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c3811e9d071c5644d928fbb914d3a38c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c3811e9d071c5644d928fbb914d3a38c.unwrap
+    projectPath: Temp\input-c3811e9d071c5644d928fbb914d3a38c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c74e6e00c4126b340a3cb62c7b1d7130.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c74e6e00c4126b340a3cb62c7b1d7130.unwrap
+    projectPath: Temp\input-c74e6e00c4126b340a3cb62c7b1d7130.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c8a49aab1bad38941a35bee32200cfec.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c8a49aab1bad38941a35bee32200cfec.unwrap
+    projectPath: Temp\input-c8a49aab1bad38941a35bee32200cfec.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-c8fa86fd7e62f334d8cf4a989395f342.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-c8fa86fd7e62f334d8cf4a989395f342.unwrap
+    projectPath: Temp\input-c8fa86fd7e62f334d8cf4a989395f342.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-cbd606c51d312e44682b5f63895f7f8c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-cbd606c51d312e44682b5f63895f7f8c.unwrap
+    projectPath: Temp\input-cbd606c51d312e44682b5f63895f7f8c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-cc1921373cc4b124d82e2f41b6ce60e4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-cc1921373cc4b124d82e2f41b6ce60e4.unwrap
+    projectPath: Temp\input-cc1921373cc4b124d82e2f41b6ce60e4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ce65d226277300e4fb830c7939efed1d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ce65d226277300e4fb830c7939efed1d.unwrap
+    projectPath: Temp\input-ce65d226277300e4fb830c7939efed1d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d06bfcd3814627442a6a234c01c9eeb9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d06bfcd3814627442a6a234c01c9eeb9.unwrap
+    projectPath: Temp\input-d06bfcd3814627442a6a234c01c9eeb9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d0fe69176ef9e814f9c798780f006d34.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d0fe69176ef9e814f9c798780f006d34.unwrap
+    projectPath: Temp\input-d0fe69176ef9e814f9c798780f006d34.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d36e0922305ce314fa7ba0740d5fdfa4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d36e0922305ce314fa7ba0740d5fdfa4.unwrap
+    projectPath: Temp\input-d36e0922305ce314fa7ba0740d5fdfa4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d3bdd2aca4f25844db8844db3f5c3dee.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d3bdd2aca4f25844db8844db3f5c3dee.unwrap
+    projectPath: Temp\input-d3bdd2aca4f25844db8844db3f5c3dee.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d3e07293a7f8f8648a9e28b2f3b90319.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d3e07293a7f8f8648a9e28b2f3b90319.unwrap
+    projectPath: Temp\input-d3e07293a7f8f8648a9e28b2f3b90319.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d4476b32fc371f14ca39b1c4cfee2c4b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d4476b32fc371f14ca39b1c4cfee2c4b.unwrap
+    projectPath: Temp\input-d4476b32fc371f14ca39b1c4cfee2c4b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d45dff3320b8c1a4a8a4215a89758308.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d45dff3320b8c1a4a8a4215a89758308.unwrap
+    projectPath: Temp\input-d45dff3320b8c1a4a8a4215a89758308.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d487597d39f311346b204897286e810a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d487597d39f311346b204897286e810a.unwrap
+    projectPath: Temp\input-d487597d39f311346b204897286e810a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-d4aa4cc8494cf0b4c91f966995f3d20f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-d4aa4cc8494cf0b4c91f966995f3d20f.unwrap
+    projectPath: Temp\input-d4aa4cc8494cf0b4c91f966995f3d20f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-daa07247756c9fa4daef1158dafbe0fa.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-daa07247756c9fa4daef1158dafbe0fa.unwrap
+    projectPath: Temp\input-daa07247756c9fa4daef1158dafbe0fa.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-df000370a92df7840a9b5563cc89698a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-df000370a92df7840a9b5563cc89698a.unwrap
+    projectPath: Temp\input-df000370a92df7840a9b5563cc89698a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e0132f272be7f914d910df7d8187c697.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e0132f272be7f914d910df7d8187c697.unwrap
+    projectPath: Temp\input-e0132f272be7f914d910df7d8187c697.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e1e0fcaea1dd6e847a3399d55582b15f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e1e0fcaea1dd6e847a3399d55582b15f.unwrap
+    projectPath: Temp\input-e1e0fcaea1dd6e847a3399d55582b15f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e232dc257b8e5134a9edec30356b00f5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e232dc257b8e5134a9edec30356b00f5.unwrap
+    projectPath: Temp\input-e232dc257b8e5134a9edec30356b00f5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e4a2cd7a0a67f024fa00f42a44127308.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e4a2cd7a0a67f024fa00f42a44127308.unwrap
+    projectPath: Temp\input-e4a2cd7a0a67f024fa00f42a44127308.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e53c7f69199a93845a1a747c192dfe1e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e53c7f69199a93845a1a747c192dfe1e.unwrap
+    projectPath: Temp\input-e53c7f69199a93845a1a747c192dfe1e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e5640e6d1cd3594468c0c55f3b6a4d4d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e5640e6d1cd3594468c0c55f3b6a4d4d.unwrap
+    projectPath: Temp\input-e5640e6d1cd3594468c0c55f3b6a4d4d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e727db5a68690b345956101b4b77f956.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e727db5a68690b345956101b4b77f956.unwrap
+    projectPath: Temp\input-e727db5a68690b345956101b4b77f956.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e807d254eff258049883af24ed260ce7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e807d254eff258049883af24ed260ce7.unwrap
+    projectPath: Temp\input-e807d254eff258049883af24ed260ce7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-e8f0a2ce78e0c8c4aafb631f5af56164.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-e8f0a2ce78e0c8c4aafb631f5af56164.unwrap
+    projectPath: Temp\input-e8f0a2ce78e0c8c4aafb631f5af56164.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ecd6df89e192c7e4588cd4347315af23.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ecd6df89e192c7e4588cd4347315af23.unwrap
+    projectPath: Temp\input-ecd6df89e192c7e4588cd4347315af23.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ed66bf31044736d4faec6742b30ca62e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ed66bf31044736d4faec6742b30ca62e.unwrap
+    projectPath: Temp\input-ed66bf31044736d4faec6742b30ca62e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ed6d93dd81826f044ab26408542eb49e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ed6d93dd81826f044ab26408542eb49e.unwrap
+    projectPath: Temp\input-ed6d93dd81826f044ab26408542eb49e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ed804fa9c822c5b438b27adf9b864e74.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ed804fa9c822c5b438b27adf9b864e74.unwrap
+    projectPath: Temp\input-ed804fa9c822c5b438b27adf9b864e74.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-eef3f90766b858549812cc28a15190c6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-eef3f90766b858549812cc28a15190c6.unwrap
+    projectPath: Temp\input-eef3f90766b858549812cc28a15190c6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-eef59305b6a094545bab8b12a2dcce41.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-eef59305b6a094545bab8b12a2dcce41.unwrap
+    projectPath: Temp\input-eef59305b6a094545bab8b12a2dcce41.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ef93cad4ae33b604e9d71fdc51616798.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ef93cad4ae33b604e9d71fdc51616798.unwrap
+    projectPath: Temp\input-ef93cad4ae33b604e9d71fdc51616798.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-f03faa3483b870f4bab5eb93b7ce7bd1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-f03faa3483b870f4bab5eb93b7ce7bd1.unwrap
+    projectPath: Temp\input-f03faa3483b870f4bab5eb93b7ce7bd1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-f5eedbd77f8e8ae4691c3590a2f11619.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-f5eedbd77f8e8ae4691c3590a2f11619.unwrap
+    projectPath: Temp\input-f5eedbd77f8e8ae4691c3590a2f11619.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-f65068f6c0ccc7a4992542226ef8c6b2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-f65068f6c0ccc7a4992542226ef8c6b2.unwrap
+    projectPath: Temp\input-f65068f6c0ccc7a4992542226ef8c6b2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-f80c7f5758e37244e86bd7ea6fb6892f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-f80c7f5758e37244e86bd7ea6fb6892f.unwrap
+    projectPath: Temp\input-f80c7f5758e37244e86bd7ea6fb6892f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-f8ceb65b20e6f4f4ca71a9ed37f8f300.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-f8ceb65b20e6f4f4ca71a9ed37f8f300.unwrap
+    projectPath: Temp\input-f8ceb65b20e6f4f4ca71a9ed37f8f300.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-fa633a78de870b64591fa4a2ec32eacb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-fa633a78de870b64591fa4a2ec32eacb.unwrap
+    projectPath: Temp\input-fa633a78de870b64591fa4a2ec32eacb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-fb3e724daabc8ce428ede81334f8e1de.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-fb3e724daabc8ce428ede81334f8e1de.unwrap
+    projectPath: Temp\input-fb3e724daabc8ce428ede81334f8e1de.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-fc72fe3bd03adf64ca8304d83776a006.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-fc72fe3bd03adf64ca8304d83776a006.unwrap
+    projectPath: Temp\input-fc72fe3bd03adf64ca8304d83776a006.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-fd285c371fb41ea498cf72c8a516a610.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-fd285c371fb41ea498cf72c8a516a610.unwrap
+    projectPath: Temp\input-fd285c371fb41ea498cf72c8a516a610.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-fee29b43e41919c478070bd500980d30.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-fee29b43e41919c478070bd500980d30.unwrap
+    projectPath: Temp\input-fee29b43e41919c478070bd500980d30.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\input-ffe5bdd6b04fb7e438913a5bbc4d43f3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\input-ffe5bdd6b04fb7e438913a5bbc4d43f3.unwrap
+    projectPath: Temp\input-ffe5bdd6b04fb7e438913a5bbc4d43f3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-010d4ea907172254592c2f564d9f7f86.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-010d4ea907172254592c2f564d9f7f86.unwrap
+    projectPath: Temp\output-010d4ea907172254592c2f564d9f7f86.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0283ce9fb2662444796dd4924e0ec973.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0283ce9fb2662444796dd4924e0ec973.unwrap
+    projectPath: Temp\output-0283ce9fb2662444796dd4924e0ec973.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-02a122e89beb9b543af9668c379574e3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-02a122e89beb9b543af9668c379574e3.unwrap
+    projectPath: Temp\output-02a122e89beb9b543af9668c379574e3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-07b312607be5aae428e8215edb565cfa.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-07b312607be5aae428e8215edb565cfa.unwrap
+    projectPath: Temp\output-07b312607be5aae428e8215edb565cfa.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-080573fe58df251408ee54dbba6c4f0e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-080573fe58df251408ee54dbba6c4f0e.unwrap
+    projectPath: Temp\output-080573fe58df251408ee54dbba6c4f0e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0903b6d362ec03449be064844af50095.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0903b6d362ec03449be064844af50095.unwrap
+    projectPath: Temp\output-0903b6d362ec03449be064844af50095.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0a7d395723c4f7c478da4656594f780c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0a7d395723c4f7c478da4656594f780c.unwrap
+    projectPath: Temp\output-0a7d395723c4f7c478da4656594f780c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0b6cc5d6b6fef8d42bdc6cd30cfa1513.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0b6cc5d6b6fef8d42bdc6cd30cfa1513.unwrap
+    projectPath: Temp\output-0b6cc5d6b6fef8d42bdc6cd30cfa1513.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0bfe4ace697ea774eb9d8700b05954a2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0bfe4ace697ea774eb9d8700b05954a2.unwrap
+    projectPath: Temp\output-0bfe4ace697ea774eb9d8700b05954a2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0c01738add009d842828a10cd5a6dc70.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0c01738add009d842828a10cd5a6dc70.unwrap
+    projectPath: Temp\output-0c01738add009d842828a10cd5a6dc70.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-0c3ecdf2b3d3d0745849c0c45ab27416.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-0c3ecdf2b3d3d0745849c0c45ab27416.unwrap
+    projectPath: Temp\output-0c3ecdf2b3d3d0745849c0c45ab27416.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-10315e7ebd8f0934b81f6c0eb5da89b2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-10315e7ebd8f0934b81f6c0eb5da89b2.unwrap
+    projectPath: Temp\output-10315e7ebd8f0934b81f6c0eb5da89b2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-10e9883f801877c4a8ac34001e08194c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-10e9883f801877c4a8ac34001e08194c.unwrap
+    projectPath: Temp\output-10e9883f801877c4a8ac34001e08194c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-113d4209c3178254dbb59955a245c1e6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-113d4209c3178254dbb59955a245c1e6.unwrap
+    projectPath: Temp\output-113d4209c3178254dbb59955a245c1e6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-11bad9478e8006643b982fa058374f4d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-11bad9478e8006643b982fa058374f4d.unwrap
+    projectPath: Temp\output-11bad9478e8006643b982fa058374f4d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-14c093283f50bde4a915b3cfbf245aaf.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-14c093283f50bde4a915b3cfbf245aaf.unwrap
+    projectPath: Temp\output-14c093283f50bde4a915b3cfbf245aaf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1510ec5def540ca49bd74b52c609e741.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1510ec5def540ca49bd74b52c609e741.unwrap
+    projectPath: Temp\output-1510ec5def540ca49bd74b52c609e741.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-152ba9c60c9b7c74fbef2512c167ef44.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-152ba9c60c9b7c74fbef2512c167ef44.unwrap
+    projectPath: Temp\output-152ba9c60c9b7c74fbef2512c167ef44.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1932717cc4443ea46afdf6de0daf398c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1932717cc4443ea46afdf6de0daf398c.unwrap
+    projectPath: Temp\output-1932717cc4443ea46afdf6de0daf398c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-19d3c9e208607ef489f631bb3f2a36d3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-19d3c9e208607ef489f631bb3f2a36d3.unwrap
+    projectPath: Temp\output-19d3c9e208607ef489f631bb3f2a36d3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-19febf4e60e00f041a1a82f6029b2b02.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-19febf4e60e00f041a1a82f6029b2b02.unwrap
+    projectPath: Temp\output-19febf4e60e00f041a1a82f6029b2b02.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1a75e41108cef494a969d5cfc0a10644.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1a75e41108cef494a969d5cfc0a10644.unwrap
+    projectPath: Temp\output-1a75e41108cef494a969d5cfc0a10644.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1b0fb97dfa49a224cab3a0ea08405c41.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1b0fb97dfa49a224cab3a0ea08405c41.unwrap
+    projectPath: Temp\output-1b0fb97dfa49a224cab3a0ea08405c41.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1c2daf770541ab049902551a13e49aa6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1c2daf770541ab049902551a13e49aa6.unwrap
+    projectPath: Temp\output-1c2daf770541ab049902551a13e49aa6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-1d4154caf97afb8499cfdcf8d74f92c0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-1d4154caf97afb8499cfdcf8d74f92c0.unwrap
+    projectPath: Temp\output-1d4154caf97afb8499cfdcf8d74f92c0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-22719002707d62a47ac25b9584aa2f88.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-22719002707d62a47ac25b9584aa2f88.unwrap
+    projectPath: Temp\output-22719002707d62a47ac25b9584aa2f88.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-237024bfc4538a3418cff485e495fa9e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-237024bfc4538a3418cff485e495fa9e.unwrap
+    projectPath: Temp\output-237024bfc4538a3418cff485e495fa9e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-238200c559c03894991980fe34a8aa33.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-238200c559c03894991980fe34a8aa33.unwrap
+    projectPath: Temp\output-238200c559c03894991980fe34a8aa33.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2407fb0124ae76e458bde64e2f70011a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2407fb0124ae76e458bde64e2f70011a.unwrap
+    projectPath: Temp\output-2407fb0124ae76e458bde64e2f70011a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-25fa100dd60fd5a4d972503f9969acbd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-25fa100dd60fd5a4d972503f9969acbd.unwrap
+    projectPath: Temp\output-25fa100dd60fd5a4d972503f9969acbd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-268dec2c0e3e7274bb21887dcbc15033.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-268dec2c0e3e7274bb21887dcbc15033.unwrap
+    projectPath: Temp\output-268dec2c0e3e7274bb21887dcbc15033.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2817f67247a9fc14dae1d181f856c040.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2817f67247a9fc14dae1d181f856c040.unwrap
+    projectPath: Temp\output-2817f67247a9fc14dae1d181f856c040.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2a9237c22fde03d4a924509520ba5857.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2a9237c22fde03d4a924509520ba5857.unwrap
+    projectPath: Temp\output-2a9237c22fde03d4a924509520ba5857.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2ae76aa6f2ee7fc4a8ef28354882dd5f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2ae76aa6f2ee7fc4a8ef28354882dd5f.unwrap
+    projectPath: Temp\output-2ae76aa6f2ee7fc4a8ef28354882dd5f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2b9e107fdc0a3834db81b550437c3806.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2b9e107fdc0a3834db81b550437c3806.unwrap
+    projectPath: Temp\output-2b9e107fdc0a3834db81b550437c3806.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2dc52e573e2b2af42a61b0b8e1075ddc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2dc52e573e2b2af42a61b0b8e1075ddc.unwrap
+    projectPath: Temp\output-2dc52e573e2b2af42a61b0b8e1075ddc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-2e203330810838945868fed0694f58a4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-2e203330810838945868fed0694f58a4.unwrap
+    projectPath: Temp\output-2e203330810838945868fed0694f58a4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-30265a74ab87dd349bcc8840029a4acb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-30265a74ab87dd349bcc8840029a4acb.unwrap
+    projectPath: Temp\output-30265a74ab87dd349bcc8840029a4acb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-30b3c3d2cfd9cc949973640d993a2c30.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-30b3c3d2cfd9cc949973640d993a2c30.unwrap
+    projectPath: Temp\output-30b3c3d2cfd9cc949973640d993a2c30.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-31078bbd9bb01a9499cdd288389abd90.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-31078bbd9bb01a9499cdd288389abd90.unwrap
+    projectPath: Temp\output-31078bbd9bb01a9499cdd288389abd90.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-310c6df14e1dbf14094ff350c974d2b5.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-310c6df14e1dbf14094ff350c974d2b5.unwrap
+    projectPath: Temp\output-310c6df14e1dbf14094ff350c974d2b5.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-353056e6ead99ad46b784c642c7c3b10.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-353056e6ead99ad46b784c642c7c3b10.unwrap
+    projectPath: Temp\output-353056e6ead99ad46b784c642c7c3b10.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-35e831149a40d4a40bb73c6389d6205e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-35e831149a40d4a40bb73c6389d6205e.unwrap
+    projectPath: Temp\output-35e831149a40d4a40bb73c6389d6205e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-36ec1606d61b25849a38e3213f9a68a8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-36ec1606d61b25849a38e3213f9a68a8.unwrap
+    projectPath: Temp\output-36ec1606d61b25849a38e3213f9a68a8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-3761918479b5fab408682ca6718529c3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-3761918479b5fab408682ca6718529c3.unwrap
+    projectPath: Temp\output-3761918479b5fab408682ca6718529c3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-3a62c9ef47b54b74a8316c52578ecf00.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-3a62c9ef47b54b74a8316c52578ecf00.unwrap
+    projectPath: Temp\output-3a62c9ef47b54b74a8316c52578ecf00.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-3a7e1cfbe26dc73418683b86e505cb93.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-3a7e1cfbe26dc73418683b86e505cb93.unwrap
+    projectPath: Temp\output-3a7e1cfbe26dc73418683b86e505cb93.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-3d2883c423a314941ac9a675944f94e1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-3d2883c423a314941ac9a675944f94e1.unwrap
+    projectPath: Temp\output-3d2883c423a314941ac9a675944f94e1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-414a9c53d0ee5244199fbcf25f722d00.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-414a9c53d0ee5244199fbcf25f722d00.unwrap
+    projectPath: Temp\output-414a9c53d0ee5244199fbcf25f722d00.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-41777fa9cdaa0a848b9d0848a9e9a7e3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-41777fa9cdaa0a848b9d0848a9e9a7e3.unwrap
+    projectPath: Temp\output-41777fa9cdaa0a848b9d0848a9e9a7e3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-42a50196a928249478e2c92eabca64a8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-42a50196a928249478e2c92eabca64a8.unwrap
+    projectPath: Temp\output-42a50196a928249478e2c92eabca64a8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-42dd509509f7c0a41b853075d1bbfea0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-42dd509509f7c0a41b853075d1bbfea0.unwrap
+    projectPath: Temp\output-42dd509509f7c0a41b853075d1bbfea0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-4309312ee67da0c48adeaed94937adc9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-4309312ee67da0c48adeaed94937adc9.unwrap
+    projectPath: Temp\output-4309312ee67da0c48adeaed94937adc9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-431ed1a97fa996449892a59f2e21c6cb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-431ed1a97fa996449892a59f2e21c6cb.unwrap
+    projectPath: Temp\output-431ed1a97fa996449892a59f2e21c6cb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-45b668800717e874bb0ea301aabd6c8b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-45b668800717e874bb0ea301aabd6c8b.unwrap
+    projectPath: Temp\output-45b668800717e874bb0ea301aabd6c8b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-468197d9a7100e4468b4c1547794c2cb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-468197d9a7100e4468b4c1547794c2cb.unwrap
+    projectPath: Temp\output-468197d9a7100e4468b4c1547794c2cb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-496ba8a5bf9e3e04d808216fbf8c92b2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-496ba8a5bf9e3e04d808216fbf8c92b2.unwrap
+    projectPath: Temp\output-496ba8a5bf9e3e04d808216fbf8c92b2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-4cf40c9bd98bb52409af50487c25c097.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-4cf40c9bd98bb52409af50487c25c097.unwrap
+    projectPath: Temp\output-4cf40c9bd98bb52409af50487c25c097.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-4daebd6cf1c53e94282b4c2c1e23061c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-4daebd6cf1c53e94282b4c2c1e23061c.unwrap
+    projectPath: Temp\output-4daebd6cf1c53e94282b4c2c1e23061c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-4ee8539deaa518441b910b85614f1c7c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-4ee8539deaa518441b910b85614f1c7c.unwrap
+    projectPath: Temp\output-4ee8539deaa518441b910b85614f1c7c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-4f9e4c7aea3fd5941afbb68a45b28b44.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-4f9e4c7aea3fd5941afbb68a45b28b44.unwrap
+    projectPath: Temp\output-4f9e4c7aea3fd5941afbb68a45b28b44.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-50ada08cbb0544b439161759d79cd43e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-50ada08cbb0544b439161759d79cd43e.unwrap
+    projectPath: Temp\output-50ada08cbb0544b439161759d79cd43e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-521c53854785c8048a15e5ba42cb57c8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-521c53854785c8048a15e5ba42cb57c8.unwrap
+    projectPath: Temp\output-521c53854785c8048a15e5ba42cb57c8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-530f56ec301d88f44a42492d8b2867c6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-530f56ec301d88f44a42492d8b2867c6.unwrap
+    projectPath: Temp\output-530f56ec301d88f44a42492d8b2867c6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-53cd5e7b8f298104ba938cdc357c6bc9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-53cd5e7b8f298104ba938cdc357c6bc9.unwrap
+    projectPath: Temp\output-53cd5e7b8f298104ba938cdc357c6bc9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-55c7f611421161e499c8d898ab81dbe8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-55c7f611421161e499c8d898ab81dbe8.unwrap
+    projectPath: Temp\output-55c7f611421161e499c8d898ab81dbe8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5668847dea649734fbf4d5fe7386bfbd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5668847dea649734fbf4d5fe7386bfbd.unwrap
+    projectPath: Temp\output-5668847dea649734fbf4d5fe7386bfbd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-58c13ea5e1217ea44859eb7fed0e5202.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-58c13ea5e1217ea44859eb7fed0e5202.unwrap
+    projectPath: Temp\output-58c13ea5e1217ea44859eb7fed0e5202.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-58e0458d42171154b984128d73125e05.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-58e0458d42171154b984128d73125e05.unwrap
+    projectPath: Temp\output-58e0458d42171154b984128d73125e05.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5aac68479693fb44bb3ed03a17128e0b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5aac68479693fb44bb3ed03a17128e0b.unwrap
+    projectPath: Temp\output-5aac68479693fb44bb3ed03a17128e0b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5af77be6fc8ba5e4bb956786c239d34a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5af77be6fc8ba5e4bb956786c239d34a.unwrap
+    projectPath: Temp\output-5af77be6fc8ba5e4bb956786c239d34a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5b2156d756d642048afcd0fcdcb98057.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5b2156d756d642048afcd0fcdcb98057.unwrap
+    projectPath: Temp\output-5b2156d756d642048afcd0fcdcb98057.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5b7ebf7881d52384fb5cd7a48e2d6533.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5b7ebf7881d52384fb5cd7a48e2d6533.unwrap
+    projectPath: Temp\output-5b7ebf7881d52384fb5cd7a48e2d6533.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5f1d25f2ecb189b4fbf5b314bcb47d1a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5f1d25f2ecb189b4fbf5b314bcb47d1a.unwrap
+    projectPath: Temp\output-5f1d25f2ecb189b4fbf5b314bcb47d1a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-5f29c3d92b50b42479ca9583bce484e6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-5f29c3d92b50b42479ca9583bce484e6.unwrap
+    projectPath: Temp\output-5f29c3d92b50b42479ca9583bce484e6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-613176e0c61ebe6449f36813773176e9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-613176e0c61ebe6449f36813773176e9.unwrap
+    projectPath: Temp\output-613176e0c61ebe6449f36813773176e9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-61f578bbeaf05f84b99670819d36a606.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-61f578bbeaf05f84b99670819d36a606.unwrap
+    projectPath: Temp\output-61f578bbeaf05f84b99670819d36a606.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-625d2c84780eb41479d9b54d7f61a5f0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-625d2c84780eb41479d9b54d7f61a5f0.unwrap
+    projectPath: Temp\output-625d2c84780eb41479d9b54d7f61a5f0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-645cbf12a70dbbb4cbf735063ac02461.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-645cbf12a70dbbb4cbf735063ac02461.unwrap
+    projectPath: Temp\output-645cbf12a70dbbb4cbf735063ac02461.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-645ed5096dae80947af62de6020b9c4f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-645ed5096dae80947af62de6020b9c4f.unwrap
+    projectPath: Temp\output-645ed5096dae80947af62de6020b9c4f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-64da9a74f279e814587a224a396d6f19.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-64da9a74f279e814587a224a396d6f19.unwrap
+    projectPath: Temp\output-64da9a74f279e814587a224a396d6f19.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-655f499255fdb8b4da602d7da69a3686.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-655f499255fdb8b4da602d7da69a3686.unwrap
+    projectPath: Temp\output-655f499255fdb8b4da602d7da69a3686.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-68d0d62fbdb52e046bf459a68ffa6b58.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-68d0d62fbdb52e046bf459a68ffa6b58.unwrap
+    projectPath: Temp\output-68d0d62fbdb52e046bf459a68ffa6b58.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-695e81bccfe1c0e4597f10fb89fe185b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-695e81bccfe1c0e4597f10fb89fe185b.unwrap
+    projectPath: Temp\output-695e81bccfe1c0e4597f10fb89fe185b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-6af0675192b66bd48b87ebe03d790ccf.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-6af0675192b66bd48b87ebe03d790ccf.unwrap
+    projectPath: Temp\output-6af0675192b66bd48b87ebe03d790ccf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-6ce039ff700649b419618e3c0c769a60.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-6ce039ff700649b419618e3c0c769a60.unwrap
+    projectPath: Temp\output-6ce039ff700649b419618e3c0c769a60.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-6e044c36ff21c404987d3317c5739efa.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-6e044c36ff21c404987d3317c5739efa.unwrap
+    projectPath: Temp\output-6e044c36ff21c404987d3317c5739efa.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-70504b216a54d8d4ea0e767bb869b06b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-70504b216a54d8d4ea0e767bb869b06b.unwrap
+    projectPath: Temp\output-70504b216a54d8d4ea0e767bb869b06b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-70bf82fb88c57cb4fa18ba4d30839b55.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-70bf82fb88c57cb4fa18ba4d30839b55.unwrap
+    projectPath: Temp\output-70bf82fb88c57cb4fa18ba4d30839b55.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-714dbeb8dca8f004b8e111651ce2d63f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-714dbeb8dca8f004b8e111651ce2d63f.unwrap
+    projectPath: Temp\output-714dbeb8dca8f004b8e111651ce2d63f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-737c058cba2056543a94c9860e61c4be.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-737c058cba2056543a94c9860e61c4be.unwrap
+    projectPath: Temp\output-737c058cba2056543a94c9860e61c4be.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-7448d59a12df5014681e7b78d1684f39.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-7448d59a12df5014681e7b78d1684f39.unwrap
+    projectPath: Temp\output-7448d59a12df5014681e7b78d1684f39.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-74e247bf5b0b9c241977ee7b57d0ca3d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-74e247bf5b0b9c241977ee7b57d0ca3d.unwrap
+    projectPath: Temp\output-74e247bf5b0b9c241977ee7b57d0ca3d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-74f21e14038b745439e953792dba753b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-74f21e14038b745439e953792dba753b.unwrap
+    projectPath: Temp\output-74f21e14038b745439e953792dba753b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-75564c672652af34183edb1799c7845d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-75564c672652af34183edb1799c7845d.unwrap
+    projectPath: Temp\output-75564c672652af34183edb1799c7845d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-756a6308d300fd54da41d530c0b64b11.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-756a6308d300fd54da41d530c0b64b11.unwrap
+    projectPath: Temp\output-756a6308d300fd54da41d530c0b64b11.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-770c402edeb729d4590adec540d3f371.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-770c402edeb729d4590adec540d3f371.unwrap
+    projectPath: Temp\output-770c402edeb729d4590adec540d3f371.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-77b4997a51f2c244ca191caa7fd4c24e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-77b4997a51f2c244ca191caa7fd4c24e.unwrap
+    projectPath: Temp\output-77b4997a51f2c244ca191caa7fd4c24e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-7a87e9505c8ae5d469ec58e3ac975f26.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-7a87e9505c8ae5d469ec58e3ac975f26.unwrap
+    projectPath: Temp\output-7a87e9505c8ae5d469ec58e3ac975f26.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-7b1e81759ca35684596e92e4faabcb5a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-7b1e81759ca35684596e92e4faabcb5a.unwrap
+    projectPath: Temp\output-7b1e81759ca35684596e92e4faabcb5a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-7e7b37949290fed4cbfec30a847e4d66.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-7e7b37949290fed4cbfec30a847e4d66.unwrap
+    projectPath: Temp\output-7e7b37949290fed4cbfec30a847e4d66.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-7fae942e7131bbc479ea1e2253971ee9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-7fae942e7131bbc479ea1e2253971ee9.unwrap
+    projectPath: Temp\output-7fae942e7131bbc479ea1e2253971ee9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-803b9a34a2e05344d8dd0c26267c4fb4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-803b9a34a2e05344d8dd0c26267c4fb4.unwrap
+    projectPath: Temp\output-803b9a34a2e05344d8dd0c26267c4fb4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-89636c2ead0fa7e4db5e764eb5e7d5b0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-89636c2ead0fa7e4db5e764eb5e7d5b0.unwrap
+    projectPath: Temp\output-89636c2ead0fa7e4db5e764eb5e7d5b0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-8d0912876e6ae0949a3a230c1865e8dc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-8d0912876e6ae0949a3a230c1865e8dc.unwrap
+    projectPath: Temp\output-8d0912876e6ae0949a3a230c1865e8dc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-8f32da4c0e0ad4a4ba7a2e8f328c629b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-8f32da4c0e0ad4a4ba7a2e8f328c629b.unwrap
+    projectPath: Temp\output-8f32da4c0e0ad4a4ba7a2e8f328c629b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9098476a2fabe1c42ad9a9e75d6c9248.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9098476a2fabe1c42ad9a9e75d6c9248.unwrap
+    projectPath: Temp\output-9098476a2fabe1c42ad9a9e75d6c9248.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9418a311bdac0ca478f8dde6d6a2154d.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9418a311bdac0ca478f8dde6d6a2154d.unwrap
+    projectPath: Temp\output-9418a311bdac0ca478f8dde6d6a2154d.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9724044ceaa3fe94db88c509f4792925.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9724044ceaa3fe94db88c509f4792925.unwrap
+    projectPath: Temp\output-9724044ceaa3fe94db88c509f4792925.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-97b7d7ed76cbfbb4492b2844b32eb46e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-97b7d7ed76cbfbb4492b2844b32eb46e.unwrap
+    projectPath: Temp\output-97b7d7ed76cbfbb4492b2844b32eb46e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9991573c96296bf4b88e1a4fb061e0a6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9991573c96296bf4b88e1a4fb061e0a6.unwrap
+    projectPath: Temp\output-9991573c96296bf4b88e1a4fb061e0a6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9a506d7ee909c9544be03ae95e9348ed.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9a506d7ee909c9544be03ae95e9348ed.unwrap
+    projectPath: Temp\output-9a506d7ee909c9544be03ae95e9348ed.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9c4c0658d2eea754b83cb3b21371a71f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9c4c0658d2eea754b83cb3b21371a71f.unwrap
+    projectPath: Temp\output-9c4c0658d2eea754b83cb3b21371a71f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9c630fe5f773f384a9a67594e27e4e19.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9c630fe5f773f384a9a67594e27e4e19.unwrap
+    projectPath: Temp\output-9c630fe5f773f384a9a67594e27e4e19.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9cf472a594c22e541b42cc98650ce142.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9cf472a594c22e541b42cc98650ce142.unwrap
+    projectPath: Temp\output-9cf472a594c22e541b42cc98650ce142.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9d333cad5bf3fed4fba26586363113a3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9d333cad5bf3fed4fba26586363113a3.unwrap
+    projectPath: Temp\output-9d333cad5bf3fed4fba26586363113a3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9f749d72593197348b09fb5e268fd0bb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9f749d72593197348b09fb5e268fd0bb.unwrap
+    projectPath: Temp\output-9f749d72593197348b09fb5e268fd0bb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-9fefe18103e50744681dadd4d64e636f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-9fefe18103e50744681dadd4d64e636f.unwrap
+    projectPath: Temp\output-9fefe18103e50744681dadd4d64e636f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a0e8f03e81a66a047be01904f60dcced.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a0e8f03e81a66a047be01904f60dcced.unwrap
+    projectPath: Temp\output-a0e8f03e81a66a047be01904f60dcced.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a1694721148e5ed42a8028736d442d7b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a1694721148e5ed42a8028736d442d7b.unwrap
+    projectPath: Temp\output-a1694721148e5ed42a8028736d442d7b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a25ee10e736bf9c4f8f77ef9e224140c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a25ee10e736bf9c4f8f77ef9e224140c.unwrap
+    projectPath: Temp\output-a25ee10e736bf9c4f8f77ef9e224140c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a4b5dee11f129234abd36c2c67e78dd6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a4b5dee11f129234abd36c2c67e78dd6.unwrap
+    projectPath: Temp\output-a4b5dee11f129234abd36c2c67e78dd6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a4bcf8ba36e738543a0d671ab757d098.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a4bcf8ba36e738543a0d671ab757d098.unwrap
+    projectPath: Temp\output-a4bcf8ba36e738543a0d671ab757d098.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a4e569097566d7d4baa319774ad3783b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a4e569097566d7d4baa319774ad3783b.unwrap
+    projectPath: Temp\output-a4e569097566d7d4baa319774ad3783b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a6bd3a91fada9d3489965bf5108b9bec.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a6bd3a91fada9d3489965bf5108b9bec.unwrap
+    projectPath: Temp\output-a6bd3a91fada9d3489965bf5108b9bec.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a7d51db6096089e4fbfe240d6a654249.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a7d51db6096089e4fbfe240d6a654249.unwrap
+    projectPath: Temp\output-a7d51db6096089e4fbfe240d6a654249.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-a97a4026f23f4fa4086d1d31522a98ca.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-a97a4026f23f4fa4086d1d31522a98ca.unwrap
+    projectPath: Temp\output-a97a4026f23f4fa4086d1d31522a98ca.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-abe0d8d120191764c8fb4126114683d8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-abe0d8d120191764c8fb4126114683d8.unwrap
+    projectPath: Temp\output-abe0d8d120191764c8fb4126114683d8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ac4b99a922b13d1448a264a7f9501374.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ac4b99a922b13d1448a264a7f9501374.unwrap
+    projectPath: Temp\output-ac4b99a922b13d1448a264a7f9501374.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ae4c92280668c744fb0997ed76cf82bf.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ae4c92280668c744fb0997ed76cf82bf.unwrap
+    projectPath: Temp\output-ae4c92280668c744fb0997ed76cf82bf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ae7cb7afdb54e354a93a709725c3d90b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ae7cb7afdb54e354a93a709725c3d90b.unwrap
+    projectPath: Temp\output-ae7cb7afdb54e354a93a709725c3d90b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-afde1949e89c96a4ba6dbbca59ec8936.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-afde1949e89c96a4ba6dbbca59ec8936.unwrap
+    projectPath: Temp\output-afde1949e89c96a4ba6dbbca59ec8936.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b0ece3f4641f2db4b9779307d0669bc0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b0ece3f4641f2db4b9779307d0669bc0.unwrap
+    projectPath: Temp\output-b0ece3f4641f2db4b9779307d0669bc0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b1669b7fc48c8ea4c87517830732f22c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b1669b7fc48c8ea4c87517830732f22c.unwrap
+    projectPath: Temp\output-b1669b7fc48c8ea4c87517830732f22c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b178d76fcf54d3344a9d8e5b3bd46668.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b178d76fcf54d3344a9d8e5b3bd46668.unwrap
+    projectPath: Temp\output-b178d76fcf54d3344a9d8e5b3bd46668.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b20f11cf658138b4d8278024512a5385.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b20f11cf658138b4d8278024512a5385.unwrap
+    projectPath: Temp\output-b20f11cf658138b4d8278024512a5385.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b47ecefd12918e449872f2765672b663.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b47ecefd12918e449872f2765672b663.unwrap
+    projectPath: Temp\output-b47ecefd12918e449872f2765672b663.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b525a92f59a11614ca7e773bfa83c2be.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b525a92f59a11614ca7e773bfa83c2be.unwrap
+    projectPath: Temp\output-b525a92f59a11614ca7e773bfa83c2be.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b783ba032a08c5a449e41e6e4e5b3321.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b783ba032a08c5a449e41e6e4e5b3321.unwrap
+    projectPath: Temp\output-b783ba032a08c5a449e41e6e4e5b3321.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-b7944970bf0898a4fab1035c56c67326.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-b7944970bf0898a4fab1035c56c67326.unwrap
+    projectPath: Temp\output-b7944970bf0898a4fab1035c56c67326.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-bbd2ee2e7da1e96418f559918b593ce4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-bbd2ee2e7da1e96418f559918b593ce4.unwrap
+    projectPath: Temp\output-bbd2ee2e7da1e96418f559918b593ce4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-bc681f38947d90f45a58f792ff012eac.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-bc681f38947d90f45a58f792ff012eac.unwrap
+    projectPath: Temp\output-bc681f38947d90f45a58f792ff012eac.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-bf1cffba3d599384da6d8a305ab06433.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-bf1cffba3d599384da6d8a305ab06433.unwrap
+    projectPath: Temp\output-bf1cffba3d599384da6d8a305ab06433.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-bf4f356fbd101574f812e4cc95474998.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-bf4f356fbd101574f812e4cc95474998.unwrap
+    projectPath: Temp\output-bf4f356fbd101574f812e4cc95474998.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c1045dc6eed64014c802a749f3e8ff43.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c1045dc6eed64014c802a749f3e8ff43.unwrap
+    projectPath: Temp\output-c1045dc6eed64014c802a749f3e8ff43.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c1c37024b34d9134c99e28bdff8030fd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c1c37024b34d9134c99e28bdff8030fd.unwrap
+    projectPath: Temp\output-c1c37024b34d9134c99e28bdff8030fd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c2605b0ef0dc51244906b189b50a117b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c2605b0ef0dc51244906b189b50a117b.unwrap
+    projectPath: Temp\output-c2605b0ef0dc51244906b189b50a117b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c2cecbdf42eb81444bb987b0a3827862.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c2cecbdf42eb81444bb987b0a3827862.unwrap
+    projectPath: Temp\output-c2cecbdf42eb81444bb987b0a3827862.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c30411ce144fb7e4d8497c69611cf956.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c30411ce144fb7e4d8497c69611cf956.unwrap
+    projectPath: Temp\output-c30411ce144fb7e4d8497c69611cf956.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c36ebfc4c65f2b946be5490a393e946e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c36ebfc4c65f2b946be5490a393e946e.unwrap
+    projectPath: Temp\output-c36ebfc4c65f2b946be5490a393e946e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c42c1d08eb920e34c9544972a888fa33.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c42c1d08eb920e34c9544972a888fa33.unwrap
+    projectPath: Temp\output-c42c1d08eb920e34c9544972a888fa33.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c4e251362abe4b74d82322aa26757687.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c4e251362abe4b74d82322aa26757687.unwrap
+    projectPath: Temp\output-c4e251362abe4b74d82322aa26757687.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c5d601d0533edb34bb91414cbd9e39e8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c5d601d0533edb34bb91414cbd9e39e8.unwrap
+    projectPath: Temp\output-c5d601d0533edb34bb91414cbd9e39e8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c951867edbdeec840bc3685854c2c24c.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c951867edbdeec840bc3685854c2c24c.unwrap
+    projectPath: Temp\output-c951867edbdeec840bc3685854c2c24c.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c96c2847d80989640a2090972d1047c2.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c96c2847d80989640a2090972d1047c2.unwrap
+    projectPath: Temp\output-c96c2847d80989640a2090972d1047c2.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c9b8a983002b82c4c9f99322316a6e2a.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c9b8a983002b82c4c9f99322316a6e2a.unwrap
+    projectPath: Temp\output-c9b8a983002b82c4c9f99322316a6e2a.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-c9f97736429cbef48bde999b3fa512a7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-c9f97736429cbef48bde999b3fa512a7.unwrap
+    projectPath: Temp\output-c9f97736429cbef48bde999b3fa512a7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ca3c9b146d7eeda4a96dd3b52601b6f8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ca3c9b146d7eeda4a96dd3b52601b6f8.unwrap
+    projectPath: Temp\output-ca3c9b146d7eeda4a96dd3b52601b6f8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cb2e6f03588548b4398c9113bf42dd86.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cb2e6f03588548b4398c9113bf42dd86.unwrap
+    projectPath: Temp\output-cb2e6f03588548b4398c9113bf42dd86.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cb868234173056446900ddcf4a2ed031.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cb868234173056446900ddcf4a2ed031.unwrap
+    projectPath: Temp\output-cb868234173056446900ddcf4a2ed031.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cbf8ca8185ccedc419dc8a47a4ccc729.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cbf8ca8185ccedc419dc8a47a4ccc729.unwrap
+    projectPath: Temp\output-cbf8ca8185ccedc419dc8a47a4ccc729.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cc0b60a38f60dc941b4bed80da22e1a0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cc0b60a38f60dc941b4bed80da22e1a0.unwrap
+    projectPath: Temp\output-cc0b60a38f60dc941b4bed80da22e1a0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cd2c1e6d9fda21f4bb63fd94f9df0ecd.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cd2c1e6d9fda21f4bb63fd94f9df0ecd.unwrap
+    projectPath: Temp\output-cd2c1e6d9fda21f4bb63fd94f9df0ecd.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cd54c70bc4862604b9c4507a9043d846.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cd54c70bc4862604b9c4507a9043d846.unwrap
+    projectPath: Temp\output-cd54c70bc4862604b9c4507a9043d846.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cd5d741e1deb1b94ca8d861ba7ea738e.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cd5d741e1deb1b94ca8d861ba7ea738e.unwrap
+    projectPath: Temp\output-cd5d741e1deb1b94ca8d861ba7ea738e.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cde40d76fa1044147b03c8d45af225a7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cde40d76fa1044147b03c8d45af225a7.unwrap
+    projectPath: Temp\output-cde40d76fa1044147b03c8d45af225a7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cf3d68a606019e3488e308aa49cf9148.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cf3d68a606019e3488e308aa49cf9148.unwrap
+    projectPath: Temp\output-cf3d68a606019e3488e308aa49cf9148.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-cfe52126b311d434baa660c0c7ea7308.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-cfe52126b311d434baa660c0c7ea7308.unwrap
+    projectPath: Temp\output-cfe52126b311d434baa660c0c7ea7308.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-d4004c1e9814860449f7ec23adb7b7cf.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-d4004c1e9814860449f7ec23adb7b7cf.unwrap
+    projectPath: Temp\output-d4004c1e9814860449f7ec23adb7b7cf.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-d5adb8c4d3764af42b111bac129cec57.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-d5adb8c4d3764af42b111bac129cec57.unwrap
+    projectPath: Temp\output-d5adb8c4d3764af42b111bac129cec57.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-d7f57b7d4226b924a9de58dc30a02309.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-d7f57b7d4226b924a9de58dc30a02309.unwrap
+    projectPath: Temp\output-d7f57b7d4226b924a9de58dc30a02309.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-d9cf1593da5926e4a8fe796d92411fca.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-d9cf1593da5926e4a8fe796d92411fca.unwrap
+    projectPath: Temp\output-d9cf1593da5926e4a8fe796d92411fca.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-db48f1d5c8db98d4b8e9131934c11c87.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-db48f1d5c8db98d4b8e9131934c11c87.unwrap
+    projectPath: Temp\output-db48f1d5c8db98d4b8e9131934c11c87.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-dc56a49c883243e48a5f01cbf134cf59.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-dc56a49c883243e48a5f01cbf134cf59.unwrap
+    projectPath: Temp\output-dc56a49c883243e48a5f01cbf134cf59.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ddeb4191b7600bf4a8e090efdc1c48e6.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ddeb4191b7600bf4a8e090efdc1c48e6.unwrap
+    projectPath: Temp\output-ddeb4191b7600bf4a8e090efdc1c48e6.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-df95a2eab8ef9994fbcf8334d22ce74f.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-df95a2eab8ef9994fbcf8334d22ce74f.unwrap
+    projectPath: Temp\output-df95a2eab8ef9994fbcf8334d22ce74f.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e02b11def67e2944a86156ad901dd368.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e02b11def67e2944a86156ad901dd368.unwrap
+    projectPath: Temp\output-e02b11def67e2944a86156ad901dd368.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e0b963c476f234b498d128b8936b9cc7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e0b963c476f234b498d128b8936b9cc7.unwrap
+    projectPath: Temp\output-e0b963c476f234b498d128b8936b9cc7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e12c44f0784c5804dbc53eb997687a85.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e12c44f0784c5804dbc53eb997687a85.unwrap
+    projectPath: Temp\output-e12c44f0784c5804dbc53eb997687a85.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e300daf0c96808848ab139e3088933e7.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e300daf0c96808848ab139e3088933e7.unwrap
+    projectPath: Temp\output-e300daf0c96808848ab139e3088933e7.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e3572a980c03deb4e90dc9170c379534.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e3572a980c03deb4e90dc9170c379534.unwrap
+    projectPath: Temp\output-e3572a980c03deb4e90dc9170c379534.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e5ac16d6cb5f595499a01a08ac147376.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e5ac16d6cb5f595499a01a08ac147376.unwrap
+    projectPath: Temp\output-e5ac16d6cb5f595499a01a08ac147376.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e61244425f10d0243bb4a9d61aec74c3.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e61244425f10d0243bb4a9d61aec74c3.unwrap
+    projectPath: Temp\output-e61244425f10d0243bb4a9d61aec74c3.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e61e10f10a4e2f04187b48444648efde.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e61e10f10a4e2f04187b48444648efde.unwrap
+    projectPath: Temp\output-e61e10f10a4e2f04187b48444648efde.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-e8e95ccaad5dd4d42829237dc6987b14.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-e8e95ccaad5dd4d42829237dc6987b14.unwrap
+    projectPath: Temp\output-e8e95ccaad5dd4d42829237dc6987b14.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ea8479796ec2df040ab5f97d273330e9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ea8479796ec2df040ab5f97d273330e9.unwrap
+    projectPath: Temp\output-ea8479796ec2df040ab5f97d273330e9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-eae86e26ba842164cabdfb8e4631a230.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-eae86e26ba842164cabdfb8e4631a230.unwrap
+    projectPath: Temp\output-eae86e26ba842164cabdfb8e4631a230.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ebfa236556db088498c3cb32e3a61283.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ebfa236556db088498c3cb32e3a61283.unwrap
+    projectPath: Temp\output-ebfa236556db088498c3cb32e3a61283.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ec5735308e3520d4ea571c686a432ee9.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ec5735308e3520d4ea571c686a432ee9.unwrap
+    projectPath: Temp\output-ec5735308e3520d4ea571c686a432ee9.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ec7566d0d20358d4884378467df8ff39.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ec7566d0d20358d4884378467df8ff39.unwrap
+    projectPath: Temp\output-ec7566d0d20358d4884378467df8ff39.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-eec72f7a0e1f12c4fa174b87bb8f9005.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-eec72f7a0e1f12c4fa174b87bb8f9005.unwrap
+    projectPath: Temp\output-eec72f7a0e1f12c4fa174b87bb8f9005.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f06372a88ddc2c244b709607ef8f6fa1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f06372a88ddc2c244b709607ef8f6fa1.unwrap
+    projectPath: Temp\output-f06372a88ddc2c244b709607ef8f6fa1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f1b1cb7de53c7574fb74cb8d68802ecc.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f1b1cb7de53c7574fb74cb8d68802ecc.unwrap
+    projectPath: Temp\output-f1b1cb7de53c7574fb74cb8d68802ecc.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f271fbe5a187eca4c9decc98a5aed3e0.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f271fbe5a187eca4c9decc98a5aed3e0.unwrap
+    projectPath: Temp\output-f271fbe5a187eca4c9decc98a5aed3e0.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f3c920464c4a8654587693a73f100930.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f3c920464c4a8654587693a73f100930.unwrap
+    projectPath: Temp\output-f3c920464c4a8654587693a73f100930.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f3eb4bc97e30e3749ac2df02990c0173.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f3eb4bc97e30e3749ac2df02990c0173.unwrap
+    projectPath: Temp\output-f3eb4bc97e30e3749ac2df02990c0173.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f3f7e2dbc6e55ec45ab9101582c6c008.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f3f7e2dbc6e55ec45ab9101582c6c008.unwrap
+    projectPath: Temp\output-f3f7e2dbc6e55ec45ab9101582c6c008.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f433fce6e5d577f43a31b47d03cc1e02.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f433fce6e5d577f43a31b47d03cc1e02.unwrap
+    projectPath: Temp\output-f433fce6e5d577f43a31b47d03cc1e02.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f5dcaa336bc15854eb3c0d0d8b2ad4cb.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f5dcaa336bc15854eb3c0d0d8b2ad4cb.unwrap
+    projectPath: Temp\output-f5dcaa336bc15854eb3c0d0d8b2ad4cb.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f60b83b23367de8448968087fd973d87.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f60b83b23367de8448968087fd973d87.unwrap
+    projectPath: Temp\output-f60b83b23367de8448968087fd973d87.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f662287faeb346549b06933155f50953.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f662287faeb346549b06933155f50953.unwrap
+    projectPath: Temp\output-f662287faeb346549b06933155f50953.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f664640824dd6484daa66558edf89a80.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f664640824dd6484daa66558edf89a80.unwrap
+    projectPath: Temp\output-f664640824dd6484daa66558edf89a80.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f6a752d26454eb44b91ff3e65a9d39d1.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f6a752d26454eb44b91ff3e65a9d39d1.unwrap
+    projectPath: Temp\output-f6a752d26454eb44b91ff3e65a9d39d1.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f8358e2f823672d419fe7a47544cfcb8.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f8358e2f823672d419fe7a47544cfcb8.unwrap
+    projectPath: Temp\output-f8358e2f823672d419fe7a47544cfcb8.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-f950ef52bc24b284b96871bd029543a4.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-f950ef52bc24b284b96871bd029543a4.unwrap
+    projectPath: Temp\output-f950ef52bc24b284b96871bd029543a4.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-fa5957ecaedd1194aa0fde02f46375ec.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-fa5957ecaedd1194aa0fde02f46375ec.unwrap
+    projectPath: Temp\output-fa5957ecaedd1194aa0fde02f46375ec.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-fae6e8fcdd7246c4eaf352a6cebe6288.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-fae6e8fcdd7246c4eaf352a6cebe6288.unwrap
+    projectPath: Temp\output-fae6e8fcdd7246c4eaf352a6cebe6288.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-fcc5c1abd027bcd4182a9a5f0289e787.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-fcc5c1abd027bcd4182a9a5f0289e787.unwrap
+    projectPath: Temp\output-fcc5c1abd027bcd4182a9a5f0289e787.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-fdd274bd7a6fab442b8d0acc3e62a06b.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-fdd274bd7a6fab442b8d0acc3e62a06b.unwrap
+    projectPath: Temp\output-fdd274bd7a6fab442b8d0acc3e62a06b.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\output-ffbba97e74e3dbc47bb440e5360beb03.unwrap
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\output-ffbba97e74e3dbc47bb440e5360beb03.unwrap
+    projectPath: Temp\output-ffbba97e74e3dbc47bb440e5360beb03.unwrap
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityTempFile-0006af11a404c274388e914c481b703f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-0006af11a404c274388e914c481b703f
+    projectPath: Temp\UnityTempFile-0006af11a404c274388e914c481b703f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-016057ff2b92d304c9c7629466bdddaa
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-016057ff2b92d304c9c7629466bdddaa
+    projectPath: Temp\UnityTempFile-016057ff2b92d304c9c7629466bdddaa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-05243533fefe5ce48a8f09df3594981a
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-05243533fefe5ce48a8f09df3594981a
+    projectPath: Temp\UnityTempFile-05243533fefe5ce48a8f09df3594981a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-056ff66072b2ba947a2061f8df66bd4e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-056ff66072b2ba947a2061f8df66bd4e
+    projectPath: Temp\UnityTempFile-056ff66072b2ba947a2061f8df66bd4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-07f61273e30e63e42b1eafe1f9e57801
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-07f61273e30e63e42b1eafe1f9e57801
+    projectPath: Temp\UnityTempFile-07f61273e30e63e42b1eafe1f9e57801
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0ab4a5f81e301174582ae0537f2f5853
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-0ab4a5f81e301174582ae0537f2f5853
+    projectPath: Temp\UnityTempFile-0ab4a5f81e301174582ae0537f2f5853
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0bd93fd3516db5340b01fccd6efdea7c
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-0bd93fd3516db5340b01fccd6efdea7c
+    projectPath: Temp\UnityTempFile-0bd93fd3516db5340b01fccd6efdea7c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0ca5518e4b51f274d8e1550b966452e7
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-0ca5518e4b51f274d8e1550b966452e7
+    projectPath: Temp\UnityTempFile-0ca5518e4b51f274d8e1550b966452e7
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-0ea80bdac1a2ebc468616217a3379e7b
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-0ea80bdac1a2ebc468616217a3379e7b
+    projectPath: Temp\UnityTempFile-0ea80bdac1a2ebc468616217a3379e7b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-11f9f9d73cd21a74c8346db3125eb244
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-11f9f9d73cd21a74c8346db3125eb244
+    projectPath: Temp\UnityTempFile-11f9f9d73cd21a74c8346db3125eb244
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-12399689c0053d94ba2019f4af97fff1
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-12399689c0053d94ba2019f4af97fff1
+    projectPath: Temp\UnityTempFile-12399689c0053d94ba2019f4af97fff1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1c1b5d7ba02b9ea44bba7740dfaa4e02
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-1c1b5d7ba02b9ea44bba7740dfaa4e02
+    projectPath: Temp\UnityTempFile-1c1b5d7ba02b9ea44bba7740dfaa4e02
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1d1a14909b1bd584980a4eb0cd54ca7f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-1d1a14909b1bd584980a4eb0cd54ca7f
+    projectPath: Temp\UnityTempFile-1d1a14909b1bd584980a4eb0cd54ca7f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1fe79c307ce0bc14bbaa943f9fcb8183
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-1fe79c307ce0bc14bbaa943f9fcb8183
+    projectPath: Temp\UnityTempFile-1fe79c307ce0bc14bbaa943f9fcb8183
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-20c56775b451fc64cb0b1c2f508875a1
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-20c56775b451fc64cb0b1c2f508875a1
+    projectPath: Temp\UnityTempFile-20c56775b451fc64cb0b1c2f508875a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-21488f785a6fd4e4d9eff602b79ee8dd
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-21488f785a6fd4e4d9eff602b79ee8dd
+    projectPath: Temp\UnityTempFile-21488f785a6fd4e4d9eff602b79ee8dd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-21f08250ed834fd4dbe109ec3831d76d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-21f08250ed834fd4dbe109ec3831d76d
+    projectPath: Temp\UnityTempFile-21f08250ed834fd4dbe109ec3831d76d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-21f9f42b03a5eff489c13236c34be491
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-21f9f42b03a5eff489c13236c34be491
+    projectPath: Temp\UnityTempFile-21f9f42b03a5eff489c13236c34be491
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-249b0b10c555630439920cd313c1b982
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-249b0b10c555630439920cd313c1b982
+    projectPath: Temp\UnityTempFile-249b0b10c555630439920cd313c1b982
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-25f040d75c59a7f468b587508c791788
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-25f040d75c59a7f468b587508c791788
+    projectPath: Temp\UnityTempFile-25f040d75c59a7f468b587508c791788
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-28ca292577e0bc548af6a5ede29bb6a2
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-28ca292577e0bc548af6a5ede29bb6a2
+    projectPath: Temp\UnityTempFile-28ca292577e0bc548af6a5ede29bb6a2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2b8b988ca3ce32e46a5c87ba15a22813
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-2b8b988ca3ce32e46a5c87ba15a22813
+    projectPath: Temp\UnityTempFile-2b8b988ca3ce32e46a5c87ba15a22813
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2e2d73e5c6d10a04aab7d06602fa95fc
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-2e2d73e5c6d10a04aab7d06602fa95fc
+    projectPath: Temp\UnityTempFile-2e2d73e5c6d10a04aab7d06602fa95fc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2e6db6943886f5446850a9256ed4aa50
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-2e6db6943886f5446850a9256ed4aa50
+    projectPath: Temp\UnityTempFile-2e6db6943886f5446850a9256ed4aa50
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3323d4c42ec3cdd42b49b4164b98a451
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3323d4c42ec3cdd42b49b4164b98a451
+    projectPath: Temp\UnityTempFile-3323d4c42ec3cdd42b49b4164b98a451
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-354815247537e9a43a6beff94f13d5bd
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-354815247537e9a43a6beff94f13d5bd
+    projectPath: Temp\UnityTempFile-354815247537e9a43a6beff94f13d5bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-38147bcbfc1fbdf4abe92c7aac9a5818
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-38147bcbfc1fbdf4abe92c7aac9a5818
+    projectPath: Temp\UnityTempFile-38147bcbfc1fbdf4abe92c7aac9a5818
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3a6304445c3f9ca49b8c95d094680787
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3a6304445c3f9ca49b8c95d094680787
+    projectPath: Temp\UnityTempFile-3a6304445c3f9ca49b8c95d094680787
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3a826d3e58fffd34d8d609059396cb1d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3a826d3e58fffd34d8d609059396cb1d
+    projectPath: Temp\UnityTempFile-3a826d3e58fffd34d8d609059396cb1d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3ab39ed6560140b4fa914f6fff7fd708
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3ab39ed6560140b4fa914f6fff7fd708
+    projectPath: Temp\UnityTempFile-3ab39ed6560140b4fa914f6fff7fd708
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3b76bc447f8ef134ca846098965e5c04
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3b76bc447f8ef134ca846098965e5c04
+    projectPath: Temp\UnityTempFile-3b76bc447f8ef134ca846098965e5c04
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3d0926e86bfa9184d99f0efd32302855
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-3d0926e86bfa9184d99f0efd32302855
+    projectPath: Temp\UnityTempFile-3d0926e86bfa9184d99f0efd32302855
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-41df6a0f69e2a8f4fb2cb4c1ab52c866
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-41df6a0f69e2a8f4fb2cb4c1ab52c866
+    projectPath: Temp\UnityTempFile-41df6a0f69e2a8f4fb2cb4c1ab52c866
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-446bc60f8c4eab3489b4be4364c30f56
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-446bc60f8c4eab3489b4be4364c30f56
+    projectPath: Temp\UnityTempFile-446bc60f8c4eab3489b4be4364c30f56
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-45eb39c03a0af4541bdd9020f71191a2
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-45eb39c03a0af4541bdd9020f71191a2
+    projectPath: Temp\UnityTempFile-45eb39c03a0af4541bdd9020f71191a2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-47e93bf8e448062448ee2751e6fcd9bd
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-47e93bf8e448062448ee2751e6fcd9bd
+    projectPath: Temp\UnityTempFile-47e93bf8e448062448ee2751e6fcd9bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-48431d6ae71b0284c8db3a35adbb02e9
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-48431d6ae71b0284c8db3a35adbb02e9
+    projectPath: Temp\UnityTempFile-48431d6ae71b0284c8db3a35adbb02e9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-495f0423e6f0ad1429685b6806905105
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-495f0423e6f0ad1429685b6806905105
+    projectPath: Temp\UnityTempFile-495f0423e6f0ad1429685b6806905105
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4a26072c6d1c07648bbf47d3d71e487b
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-4a26072c6d1c07648bbf47d3d71e487b
+    projectPath: Temp\UnityTempFile-4a26072c6d1c07648bbf47d3d71e487b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-4b90d9af8737da44295fe1e03562e01a
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-4b90d9af8737da44295fe1e03562e01a
+    projectPath: Temp\UnityTempFile-4b90d9af8737da44295fe1e03562e01a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4d4c69414ceae454981bcf7f6db56f34
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-4d4c69414ceae454981bcf7f6db56f34
+    projectPath: Temp\UnityTempFile-4d4c69414ceae454981bcf7f6db56f34
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-51e73ba7caf758f4db1b75ed571b35fe
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-51e73ba7caf758f4db1b75ed571b35fe
+    projectPath: Temp\UnityTempFile-51e73ba7caf758f4db1b75ed571b35fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5418b0343869e3b498a5e1b33737ba0d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-5418b0343869e3b498a5e1b33737ba0d
+    projectPath: Temp\UnityTempFile-5418b0343869e3b498a5e1b33737ba0d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-555e1c68e31c66744b60e924b8a53d71
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-555e1c68e31c66744b60e924b8a53d71
+    projectPath: Temp\UnityTempFile-555e1c68e31c66744b60e924b8a53d71
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5821273b2ed2a4f458ab1ffd0699e7ce
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-5821273b2ed2a4f458ab1ffd0699e7ce
+    projectPath: Temp\UnityTempFile-5821273b2ed2a4f458ab1ffd0699e7ce
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-58f9946c5ab4821488241a487cdaab6c
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-58f9946c5ab4821488241a487cdaab6c
+    projectPath: Temp\UnityTempFile-58f9946c5ab4821488241a487cdaab6c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-599b17523d8b48644a94b8d9f9062759
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-599b17523d8b48644a94b8d9f9062759
+    projectPath: Temp\UnityTempFile-599b17523d8b48644a94b8d9f9062759
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-59a9c6aa50b16014a9e8b676418166f7
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-59a9c6aa50b16014a9e8b676418166f7
+    projectPath: Temp\UnityTempFile-59a9c6aa50b16014a9e8b676418166f7
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-5effc29881babb041b20c77d31c12ba8
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-5effc29881babb041b20c77d31c12ba8
+    projectPath: Temp\UnityTempFile-5effc29881babb041b20c77d31c12ba8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-635043874e76f0d47a2898098481ff70
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-635043874e76f0d47a2898098481ff70
+    projectPath: Temp\UnityTempFile-635043874e76f0d47a2898098481ff70
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-637d9ac6d3b37c647a432921fb4fcbcd
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-637d9ac6d3b37c647a432921fb4fcbcd
+    projectPath: Temp\UnityTempFile-637d9ac6d3b37c647a432921fb4fcbcd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-659aba3f07add7d45976e97387f442ac
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-659aba3f07add7d45976e97387f442ac
+    projectPath: Temp\UnityTempFile-659aba3f07add7d45976e97387f442ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-66d1661052d9f104185212e9428300ea
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-66d1661052d9f104185212e9428300ea
+    projectPath: Temp\UnityTempFile-66d1661052d9f104185212e9428300ea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6767a4c12e0826c41a3973b04106e78f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-6767a4c12e0826c41a3973b04106e78f
+    projectPath: Temp\UnityTempFile-6767a4c12e0826c41a3973b04106e78f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-67b8ef77fc078df4cb3906e56159736f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-67b8ef77fc078df4cb3906e56159736f
+    projectPath: Temp\UnityTempFile-67b8ef77fc078df4cb3906e56159736f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6be2ec69301170f459acc011bb48f9a5
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-6be2ec69301170f459acc011bb48f9a5
+    projectPath: Temp\UnityTempFile-6be2ec69301170f459acc011bb48f9a5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6cf7f108196f10c4f92801d4274d1909
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-6cf7f108196f10c4f92801d4274d1909
+    projectPath: Temp\UnityTempFile-6cf7f108196f10c4f92801d4274d1909
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-71b4c1c84787b104eb22a43dcdefbb85
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-71b4c1c84787b104eb22a43dcdefbb85
+    projectPath: Temp\UnityTempFile-71b4c1c84787b104eb22a43dcdefbb85
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-730ae39a134cd724da2df23b271a6366
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-730ae39a134cd724da2df23b271a6366
+    projectPath: Temp\UnityTempFile-730ae39a134cd724da2df23b271a6366
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-746da1b5f3e894c48b8e0360b4613299
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-746da1b5f3e894c48b8e0360b4613299
+    projectPath: Temp\UnityTempFile-746da1b5f3e894c48b8e0360b4613299
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-75067578f0c20574994299319acbcb21
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-75067578f0c20574994299319acbcb21
+    projectPath: Temp\UnityTempFile-75067578f0c20574994299319acbcb21
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-755e0ff09bd12944d89c95eef39e07e5
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-755e0ff09bd12944d89c95eef39e07e5
+    projectPath: Temp\UnityTempFile-755e0ff09bd12944d89c95eef39e07e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-75d2c36a7a98b554c93ff40d0de0ec95
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-75d2c36a7a98b554c93ff40d0de0ec95
+    projectPath: Temp\UnityTempFile-75d2c36a7a98b554c93ff40d0de0ec95
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-762921c300703084ea17bec11ed9bebe
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-762921c300703084ea17bec11ed9bebe
+    projectPath: Temp\UnityTempFile-762921c300703084ea17bec11ed9bebe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7648f70c68e1a9a46a9d003f0ec2f05a
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-7648f70c68e1a9a46a9d003f0ec2f05a
+    projectPath: Temp\UnityTempFile-7648f70c68e1a9a46a9d003f0ec2f05a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7b2243a171877884f99028ecc1a05752
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-7b2243a171877884f99028ecc1a05752
+    projectPath: Temp\UnityTempFile-7b2243a171877884f99028ecc1a05752
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7c6927cf4107924449784bdb37113496
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-7c6927cf4107924449784bdb37113496
+    projectPath: Temp\UnityTempFile-7c6927cf4107924449784bdb37113496
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7df3f6f37df13ae4bb085b9b497934a3
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-7df3f6f37df13ae4bb085b9b497934a3
+    projectPath: Temp\UnityTempFile-7df3f6f37df13ae4bb085b9b497934a3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8468c82c5d889494fb577f2789b2791a
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-8468c82c5d889494fb577f2789b2791a
+    projectPath: Temp\UnityTempFile-8468c82c5d889494fb577f2789b2791a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-85778ed86ae99c2459c9d47733c50b9f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-85778ed86ae99c2459c9d47733c50b9f
+    projectPath: Temp\UnityTempFile-85778ed86ae99c2459c9d47733c50b9f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-858d7fc9b60383f49b80f2c82abcb36e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-858d7fc9b60383f49b80f2c82abcb36e
+    projectPath: Temp\UnityTempFile-858d7fc9b60383f49b80f2c82abcb36e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-889108a2146abb242aa835356f2b2e7b
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-889108a2146abb242aa835356f2b2e7b
+    projectPath: Temp\UnityTempFile-889108a2146abb242aa835356f2b2e7b
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-8b2c322a67e8dab49b66079f3e48fc13
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-8b2c322a67e8dab49b66079f3e48fc13
+    projectPath: Temp\UnityTempFile-8b2c322a67e8dab49b66079f3e48fc13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-8b96eb93eac552f48b1a77f8aa73c0a6
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-8b96eb93eac552f48b1a77f8aa73c0a6
+    projectPath: Temp\UnityTempFile-8b96eb93eac552f48b1a77f8aa73c0a6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8c87250c9f003794eba1cb84d31f83ae
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-8c87250c9f003794eba1cb84d31f83ae
+    projectPath: Temp\UnityTempFile-8c87250c9f003794eba1cb84d31f83ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8cc1a0862554255478c5d380e66fe71e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-8cc1a0862554255478c5d380e66fe71e
+    projectPath: Temp\UnityTempFile-8cc1a0862554255478c5d380e66fe71e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-91a0072b007d85e41b11eb037c2c7982
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-91a0072b007d85e41b11eb037c2c7982
+    projectPath: Temp\UnityTempFile-91a0072b007d85e41b11eb037c2c7982
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-91d00ced592d1754788b29c7a2abc0d3
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-91d00ced592d1754788b29c7a2abc0d3
+    projectPath: Temp\UnityTempFile-91d00ced592d1754788b29c7a2abc0d3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-93ef52c7a547e3941abc3ec162e3f22e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-93ef52c7a547e3941abc3ec162e3f22e
+    projectPath: Temp\UnityTempFile-93ef52c7a547e3941abc3ec162e3f22e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-94e99b5aa2b9f92408a7cdd8cc20ca35
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-94e99b5aa2b9f92408a7cdd8cc20ca35
+    projectPath: Temp\UnityTempFile-94e99b5aa2b9f92408a7cdd8cc20ca35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-97f3f3b47bfd8e8499bbb1a3dcce49c0
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-97f3f3b47bfd8e8499bbb1a3dcce49c0
+    projectPath: Temp\UnityTempFile-97f3f3b47bfd8e8499bbb1a3dcce49c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9928d30d746b832408c2acadc56c2e37
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-9928d30d746b832408c2acadc56c2e37
+    projectPath: Temp\UnityTempFile-9928d30d746b832408c2acadc56c2e37
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-9992f0ae99a017648ba0db7bd22e747d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-9992f0ae99a017648ba0db7bd22e747d
+    projectPath: Temp\UnityTempFile-9992f0ae99a017648ba0db7bd22e747d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9c8c2fe02acae4b49bbe1077c6629401
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-9c8c2fe02acae4b49bbe1077c6629401
+    projectPath: Temp\UnityTempFile-9c8c2fe02acae4b49bbe1077c6629401
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9dc65a6fe0a8a3249ba50f8a4ee6c1c0
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-9dc65a6fe0a8a3249ba50f8a4ee6c1c0
+    projectPath: Temp\UnityTempFile-9dc65a6fe0a8a3249ba50f8a4ee6c1c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a365ade08ba1efc4b8543f1b8392f6da
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-a365ade08ba1efc4b8543f1b8392f6da
+    projectPath: Temp\UnityTempFile-a365ade08ba1efc4b8543f1b8392f6da
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a9c32367f79e59f439d0e25a724f0b80
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-a9c32367f79e59f439d0e25a724f0b80
+    projectPath: Temp\UnityTempFile-a9c32367f79e59f439d0e25a724f0b80
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ab789a7a64e868b419a2e8be39bf05ff
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-ab789a7a64e868b419a2e8be39bf05ff
+    projectPath: Temp\UnityTempFile-ab789a7a64e868b419a2e8be39bf05ff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-af890d060e91087419daeecbe2dad92d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-af890d060e91087419daeecbe2dad92d
+    projectPath: Temp\UnityTempFile-af890d060e91087419daeecbe2dad92d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b24dd1f4411adbf4995a8cf7a48af7dc
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-b24dd1f4411adbf4995a8cf7a48af7dc
+    projectPath: Temp\UnityTempFile-b24dd1f4411adbf4995a8cf7a48af7dc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b4d6b42311006a241af32e83a2715d97
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-b4d6b42311006a241af32e83a2715d97
+    projectPath: Temp\UnityTempFile-b4d6b42311006a241af32e83a2715d97
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-b68a24fa7e1ce48428b3ba0faa582fec
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-b68a24fa7e1ce48428b3ba0faa582fec
+    projectPath: Temp\UnityTempFile-b68a24fa7e1ce48428b3ba0faa582fec
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b6fa2f2f0e4397f48a3195e0411f635e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-b6fa2f2f0e4397f48a3195e0411f635e
+    projectPath: Temp\UnityTempFile-b6fa2f2f0e4397f48a3195e0411f635e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b91194190217d584f90d3f7f55031214
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-b91194190217d584f90d3f7f55031214
+    projectPath: Temp\UnityTempFile-b91194190217d584f90d3f7f55031214
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bbae8fba0886a9d45a293071db272af9
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-bbae8fba0886a9d45a293071db272af9
+    projectPath: Temp\UnityTempFile-bbae8fba0886a9d45a293071db272af9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bf7c559ad93b0e245813c46fc73f4c16
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-bf7c559ad93b0e245813c46fc73f4c16
+    projectPath: Temp\UnityTempFile-bf7c559ad93b0e245813c46fc73f4c16
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c1d1e451488756a4483060a839121901
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-c1d1e451488756a4483060a839121901
+    projectPath: Temp\UnityTempFile-c1d1e451488756a4483060a839121901
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c1e2a9ede7576c74593f7f2738e34557
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-c1e2a9ede7576c74593f7f2738e34557
+    projectPath: Temp\UnityTempFile-c1e2a9ede7576c74593f7f2738e34557
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-c4f7ac7586e9438439a2c5ab62c8a88a
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-c4f7ac7586e9438439a2c5ab62c8a88a
+    projectPath: Temp\UnityTempFile-c4f7ac7586e9438439a2c5ab62c8a88a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cbfe41a99377e77449fcf16c42a8afca
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-cbfe41a99377e77449fcf16c42a8afca
+    projectPath: Temp\UnityTempFile-cbfe41a99377e77449fcf16c42a8afca
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-cdb0cd66b7129c149b05c85933ec70e1
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-cdb0cd66b7129c149b05c85933ec70e1
+    projectPath: Temp\UnityTempFile-cdb0cd66b7129c149b05c85933ec70e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf5dbec9b624af748ad5aa4102366725
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-cf5dbec9b624af748ad5aa4102366725
+    projectPath: Temp\UnityTempFile-cf5dbec9b624af748ad5aa4102366725
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cfa9c5ddfa0c29147a9535a963d4ce64
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-cfa9c5ddfa0c29147a9535a963d4ce64
+    projectPath: Temp\UnityTempFile-cfa9c5ddfa0c29147a9535a963d4ce64
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d251d0906b4f2534185b04cb22c09b73
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d251d0906b4f2534185b04cb22c09b73
+    projectPath: Temp\UnityTempFile-d251d0906b4f2534185b04cb22c09b73
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d5b1a7a39584ba046889063a151ba1ae
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d5b1a7a39584ba046889063a151ba1ae
+    projectPath: Temp\UnityTempFile-d5b1a7a39584ba046889063a151ba1ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d62d813170f8a5f4f8465613dabd72e1
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d62d813170f8a5f4f8465613dabd72e1
+    projectPath: Temp\UnityTempFile-d62d813170f8a5f4f8465613dabd72e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d80ed100d9c47194aaf7161787c850ef
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d80ed100d9c47194aaf7161787c850ef
+    projectPath: Temp\UnityTempFile-d80ed100d9c47194aaf7161787c850ef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d81cf3fbc98605f40a0d668eab7c61a0
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d81cf3fbc98605f40a0d668eab7c61a0
+    projectPath: Temp\UnityTempFile-d81cf3fbc98605f40a0d668eab7c61a0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d8b5c852ad0742c448a39c7540482528
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d8b5c852ad0742c448a39c7540482528
+    projectPath: Temp\UnityTempFile-d8b5c852ad0742c448a39c7540482528
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d9870c945c4d7514ca1edde4829a0128
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-d9870c945c4d7514ca1edde4829a0128
+    projectPath: Temp\UnityTempFile-d9870c945c4d7514ca1edde4829a0128
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-da1204002ba08ce4aa50bd65c6650bf4
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-da1204002ba08ce4aa50bd65c6650bf4
+    projectPath: Temp\UnityTempFile-da1204002ba08ce4aa50bd65c6650bf4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-da707197f90edf244bf1b0d4179dba13
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-da707197f90edf244bf1b0d4179dba13
+    projectPath: Temp\UnityTempFile-da707197f90edf244bf1b0d4179dba13
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-db4dd866a33560442956976c463a85e4
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-db4dd866a33560442956976c463a85e4
+    projectPath: Temp\UnityTempFile-db4dd866a33560442956976c463a85e4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-dd10b18026785f342acf39ca1c8ebd6e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-dd10b18026785f342acf39ca1c8ebd6e
+    projectPath: Temp\UnityTempFile-dd10b18026785f342acf39ca1c8ebd6e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-dd3cb27b5db6e3046a6edb6f38a08494
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-dd3cb27b5db6e3046a6edb6f38a08494
+    projectPath: Temp\UnityTempFile-dd3cb27b5db6e3046a6edb6f38a08494
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ddbc21fdf81791b40a2286ed374681d3
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-ddbc21fdf81791b40a2286ed374681d3
+    projectPath: Temp\UnityTempFile-ddbc21fdf81791b40a2286ed374681d3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-de16f30c5aa521a45ad4da101c2bcf34
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-de16f30c5aa521a45ad4da101c2bcf34
+    projectPath: Temp\UnityTempFile-de16f30c5aa521a45ad4da101c2bcf34
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-de75e2317e7107040ab8edd0e8eecbf4
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-de75e2317e7107040ab8edd0e8eecbf4
+    projectPath: Temp\UnityTempFile-de75e2317e7107040ab8edd0e8eecbf4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e101bac7b53607140bb075519ad7961f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e101bac7b53607140bb075519ad7961f
+    projectPath: Temp\UnityTempFile-e101bac7b53607140bb075519ad7961f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e1593d32844bbb845abc4cb119a3678f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e1593d32844bbb845abc4cb119a3678f
+    projectPath: Temp\UnityTempFile-e1593d32844bbb845abc4cb119a3678f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e320fb7f37263a84cba4a5ff6c4bbb99
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e320fb7f37263a84cba4a5ff6c4bbb99
+    projectPath: Temp\UnityTempFile-e320fb7f37263a84cba4a5ff6c4bbb99
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e3585f87b6963244289cf73dc7e377ac
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e3585f87b6963244289cf73dc7e377ac
+    projectPath: Temp\UnityTempFile-e3585f87b6963244289cf73dc7e377ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e8ba9859d4360234f99cb0589883bed6
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e8ba9859d4360234f99cb0589883bed6
+    projectPath: Temp\UnityTempFile-e8ba9859d4360234f99cb0589883bed6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e9d39a390a974bd408b7ca93a7d49632
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e9d39a390a974bd408b7ca93a7d49632
+    projectPath: Temp\UnityTempFile-e9d39a390a974bd408b7ca93a7d49632
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e9e4ca9e78bcd3343baea82bbb916873
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-e9e4ca9e78bcd3343baea82bbb916873
+    projectPath: Temp\UnityTempFile-e9e4ca9e78bcd3343baea82bbb916873
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-eafd9bad660c43c41957a9cbe8c5324c
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-eafd9bad660c43c41957a9cbe8c5324c
+    projectPath: Temp\UnityTempFile-eafd9bad660c43c41957a9cbe8c5324c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-efb15926f3a2a4141a0a4947f1aec094
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-efb15926f3a2a4141a0a4947f1aec094
+    projectPath: Temp\UnityTempFile-efb15926f3a2a4141a0a4947f1aec094
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f05e2798372edbe41b7f76f8e24f1021
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f05e2798372edbe41b7f76f8e24f1021
+    projectPath: Temp\UnityTempFile-f05e2798372edbe41b7f76f8e24f1021
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-f3967b5137f238346affbcae9d570136
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f3967b5137f238346affbcae9d570136
+    projectPath: Temp\UnityTempFile-f3967b5137f238346affbcae9d570136
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f3b1328be2671154f8d88be2297c6bfb
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f3b1328be2671154f8d88be2297c6bfb
+    projectPath: Temp\UnityTempFile-f3b1328be2671154f8d88be2297c6bfb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f4abce123ffa34a42928de3c77ec4d89
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f4abce123ffa34a42928de3c77ec4d89
+    projectPath: Temp\UnityTempFile-f4abce123ffa34a42928de3c77ec4d89
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f6c93cf860e3efd478b3d988edc9c3b8
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f6c93cf860e3efd478b3d988edc9c3b8
+    projectPath: Temp\UnityTempFile-f6c93cf860e3efd478b3d988edc9c3b8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f7401855a08e06d48a5776f4c9cc759f
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f7401855a08e06d48a5776f4c9cc759f
+    projectPath: Temp\UnityTempFile-f7401855a08e06d48a5776f4c9cc759f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f8a95806bf44c4c4c8cb8a2efcc7642d
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-f8a95806bf44c4c4c8cb8a2efcc7642d
+    projectPath: Temp\UnityTempFile-f8a95806bf44c4c4c8cb8a2efcc7642d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fa5dd052e84f6b64ca3643a0c8d13c7e
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-fa5dd052e84f6b64ca3643a0c8d13c7e
+    projectPath: Temp\UnityTempFile-fa5dd052e84f6b64ca3643a0c8d13c7e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fdd5bcadb276dbe4e84bdbe021ab42eb
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-fdd5bcadb276dbe4e84bdbe021ab42eb
+    projectPath: Temp\UnityTempFile-fdd5bcadb276dbe4e84bdbe021ab42eb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-fef8052dd3f67624e84faa47a0b16c57
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-fef8052dd3f67624e84faa47a0b16c57
+    projectPath: Temp\UnityTempFile-fef8052dd3f67624e84faa47a0b16c57
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-ff63872eab082574e93a9164ef52b58c
+    fullPath: C:\Users\ThisIsNotNate\Documents\Quadris\Temp\UnityTempFile-ff63872eab082574e93a9164ef52b58c
+    projectPath: Temp\UnityTempFile-ff63872eab082574e93a9164ef52b58c
+    originalPath: 
+    status: 1
+    staged: 0

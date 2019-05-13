@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-05-09T19:25:17.500-04:00
-  initializedAtString: 2019-05-09T19:22:24.758-04:00
+  lastUpdatedAtString: 2019-05-13T17:10:35.084-04:00
+  initializedAtString: 2019-05-11T19:06:33.026-04:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
   currentHead: 

@@ -30,22 +30,18 @@ public class CameraSwap : MonoBehaviour
         left.onClick.AddListener(decrementCamera);
 
         camera = 0;
+        changeView(camera);
     }
 
     public int getCamera()
     {
-        return camera % 2;
+        return camera;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.C)){
-            camera += 1;
-            if (camera > 3)
-                camera = 0;
-            
-        }
+
             
     }
 
