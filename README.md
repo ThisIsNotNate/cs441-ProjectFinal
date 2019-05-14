@@ -1,4 +1,6 @@
 # cs441-ProjectFinal
-Creating 3D tetris in unity for android
+Created 3D isometric tetris in unity for android
 
-Using assets like ProBuilder for model creation. Have my camera views and models created, just have to now add game logic and piece movement then hope the android biuld looks and runs as good as the demo in the Unity software.
+Used Probuilder for model creation. Used Github for Unity plugin to manage commits. Move your quadris pieces around in an isometric perspective. Controls on the left move the piece and the controls on the right to rotate the piece. The two larger buttons above rotate the perspective to the next corner of the board.
+
+Main issues in development have been with collision management and creating colliders to the shapes of the pieces. All code done in development is in C# scripts attached to objects in the scene.
