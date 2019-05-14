@@ -13,18 +13,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-05-09T19:23:16.661-04:00
-  initializedAtString: 2019-05-09T19:23:16.643-04:00
-  localBranches: []
-  remoteBranches: []
-  remotes: []
+  lastUpdatedAtString: 2019-05-13T17:12:06.229-04:00
+  initializedAtString: 2019-05-12T21:00:31.959-04:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
+      trackingBranch: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git
+        trackingBranch: 
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/ThisIsNotNate/cs441-ProjectFinal.git

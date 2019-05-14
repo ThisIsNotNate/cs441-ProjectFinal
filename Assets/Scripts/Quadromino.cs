@@ -8,6 +8,8 @@ public class Quadromino : MonoBehaviour
     CameraSwap cam;
     Button yRotUp, yRotDown, xzRotUp, xzRotDown;
     Button DR, UR, DL, UL;
+    Button snapDown;
+    Spawner spawner;
 
     float fall = 0;
     public float fallSpeed = 1;
@@ -29,7 +31,10 @@ public class Quadromino : MonoBehaviour
         xzRotUp = GameObject.Find("RotateUL").GetComponent<Button>();
         xzRotDown = GameObject.Find("RotateDR").GetComponent<Button>();
 
+        snapDown = GameObject.Find("SnapDown").GetComponent<Button>();
+
         cam = GameObject.Find("CameraSwap").GetComponent<CameraSwap>();
+        spawner = GameObject.Find("SpawnPoint").GetComponent<Spawner>();
 
         yRotUp.onClick.AddListener(yRotateUp);
         yRotDown.onClick.AddListener(yRotateDown);
@@ -39,6 +44,23 @@ public class Quadromino : MonoBehaviour
         DR.onClick.AddListener(moveDR);
         UR.onClick.AddListener(moveUR);
         DL.onClick.AddListener(moveDL);
+        snapDown.onClick.AddListener(forceDown);
+    }
+
+    void forceDown()
+    {
+        moveDown();
+    }
+
+    void moveDown()
+    {
+        if (frozen)
+        {
+            return;
+        }
+        Vector3 movement = new Vector3(0, -1, 0);
+        updateLastAction(movement, false);
+        transform.position += movement;
     }
 
     public void yRotateUp()
@@ -187,6 +209,10 @@ public class Quadromino : MonoBehaviour
 
     void undoAction()
     {
+        if (frozen)
+        {
+            return;
+        }
         Vector3 undo = new Vector3(-last_move.x, -last_move.y, -last_move.z);
         if (isRotation)
         {
@@ -203,8 +229,7 @@ public class Quadromino : MonoBehaviour
     {
         if(!frozen && Time.time-fall >= fallSpeed)
         {
-            Vector3 movement = new Vector3(0, -1, 0);
-            transform.position += movement;
+            moveDown();
             fall = Time.time;
         }
 
@@ -217,14 +242,19 @@ public class Quadromino : MonoBehaviour
 
     void OnTriggerEnter(Collider col)
     {
-        if (col.gameObject.name == "Floor")
-        {
-            transform.position += new Vector3(0, 1, 0);
-            frozen = true;
-        }
-        else if (col.gameObject.name == "Bound")
+        if (!frozen && !isRotation && col.gameObject.name == "Floor"  )
         {
             undoAction();
+            frozen = true;
+            spawner.spawnNext();
+            
         }
+        else if(!frozen && col.gameObject.tag == "Piece")
+        {
+            frozen = true;
+            spawner.spawnNext();
+            return;
+        }
+        undoAction();
     }
 }
